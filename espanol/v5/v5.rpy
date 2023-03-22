@@ -1,22 +1,22 @@
-﻿# TODO: Translation updated at 2022-11-19 03:49
+# TODO: Translation updated at 2022-11-19 03:49
 
 # game/v5/v5.rpy:63
 translate espanol v5start_b1183ab6:
 
     # no "What are you doing here? And why did you just punch the wall?"
-    no "What are you doing here? And why did you just punch the wall?"
+    no "¿Qué estás haciendo acá? ¿Y porqué le pegaste a la pared?"
 
 # game/v5/v5.rpy:70
 translate espanol v5start_d59430b9:
 
     # u "*Drunk* It's Chloe... I just- I just wanted to talk to her..."
-    u "*Drunk* It's Chloe... I just- I just wanted to talk to her..."
+    u "*Borracho* Es Chloe... Yo solo- Yo solo quería hablar con ella.."
 
 # game/v5/v5.rpy:72
 translate espanol v5start_e305aab5:
 
     # u "*Drunk* And now she's all mad and I don't even know what happened."
-    u "*Drunk* And now she's all mad and I don't even know what happened."
+    u "*Borracho* Y ahora esta muy enojada y ni siquiera sé que paso."
 
 # game/v5/v5.rpy:76
 translate espanol v5start_f42e30d3:
@@ -28,175 +28,175 @@ translate espanol v5start_f42e30d3:
 translate espanol v5start_8f75944f:
 
     # no "Chloe can be a bit overdramatic sometimes, you know."
-    no "Chloe can be a bit overdramatic sometimes, you know."
+    no "Chloe puede ser un poco exagerada a veces, ya la conoces."
 
 # game/v5/v5.rpy:83
 translate espanol v5start_e0724b74:
 
     # no "Maybe she'll calm down by tomorrow."
-    no "Maybe she'll calm down by tomorrow."
+    no "Tal vez para mañana esté más calmada."
 
 # game/v5/v5.rpy:88
 translate espanol v5start_c319e66f:
 
     # u "*Drunk* Right..."
-    u "*Drunk* Right..."
+    u "*Borracho* Puede ser..."
 
 # game/v5/v5.rpy:93
 translate espanol v5start_30adda01:
 
     # no "Hey, it's none of my business, but... what did you guys talk about that made you wanna punch a wall after?"
-    no "Hey, it's none of my business, but... what did you guys talk about that made you wanna punch a wall after?"
+    no "Este, no es de mi incunvencia, pero... ¿De qué hablaron que te hizo querer pegarle a la pared?"
 
 # game/v5/v5.rpy:100
 translate espanol v5start_7ff172e2:
 
     # u "*Drunk* My uhm, my friend, he- he said that Chloe did some shady shit in the past and I just had to find out the truth!"
-    u "*Drunk* My uhm, my friend, he- he said that Chloe did some shady shit in the past and I just had to find out the truth!"
+    u "*Borracho* My ehm, mi amigo, él- él me dijo que Chloe hizo algunas cosas turbias en el pasado y ¡tenía que saber la verdad!"
 
-# game/v5/v5.rpy:105
+# game/v5/v5.rpy:1s05
 translate espanol v5start_203a8419:
 
     # no "And what did you find out?"
-    no "And what did you find out?"
+    no "¿Y qué averiguaste?"
 
 # game/v5/v5.rpy:110
 translate espanol v5start_ba31489a:
 
     # u "*Drunk* Nothing! I think all I did was ruin our relationship..."
-    u "*Drunk* Nothing! I think all I did was ruin our relationship..."
+    u "*Borracho* ¡Nada! Lo único que hice fue arruinar nuestra amistad..."
 
 # game/v5/v5.rpy:115
 translate espanol v5start_4dc2dc97:
 
     # no "Yeah, that sounds about right."
-    no "Yeah, that sounds about right."
+    no "Sep, justo lo que pensaba."
 
 # game/v5/v5.rpy:120
 translate espanol v5start_ce9d80ae:
 
     # u "*Drunk* What- What do you mean?"
-    u "*Drunk* What- What do you mean?"
+    u "*Borracho* ¿A- A qué te referís?"
 
 # game/v5/v5.rpy:125
 translate espanol v5start_676fbf64:
 
     # no "Dude, you're drunk, upset and don't even know the whole story. What did you think was gonna happen when you talk to her?"
-    no "Dude, you're drunk, upset and don't even know the whole story. What did you think was gonna happen when you talk to her?"
+    no "Flaco, estás borracho, molesto y ni siquiera sabes toda la historia. ¿Qué pensaste que iba a pasra cuando hablaras con él?"
 
 # game/v5/v5.rpy:130
 translate espanol v5start_b37bcb68:
 
     # u "*Drunk* I don't know..."
-    u "*Drunk* I don't know..."
+    u "*Borracho* No lo se..."
 
 # game/v5/v5.rpy:132
 translate espanol v5start_3e1869e8:
 
     # u "*Drunk* What do you mean the whole story?"
-    u "*Drunk* What do you mean the whole story?"
+    u "*Borracho* ¿A qué te referís con toda la historía?"
 
 # game/v5/v5.rpy:137
 translate espanol v5start_f53fb841:
 
     # no "It's late, I really don't wanna get into it. But hey, let me know how your little love story ends."
-    no "It's late, I really don't wanna get into it. But hey, let me know how your little love story ends."
+    no "Es tarde y no tengo ningún interés de meterme en el medio. Pero bueno, avisame cómo termina tu pequeña historia de amor."
 
 # game/v5/v5.rpy:139
 translate espanol v5start_cdb2d7d3:
 
     # no "Night, [name]."
-    no "Night, [name]."
+    no "Buenas noches [name]."
 
 # game/v5/v5.rpy:144
 translate espanol v5start_52e838e0:
 
     # u "*Drunk* Night..."
-    u "*Drunk* Night..."
+    u "*Borracho* Buenas noches..."
 
 # game/v5/v5.rpy:150
 translate espanol v5start_52c2a370:
 
     # u "*Drunk* Uhhh... nothing. It's not important."
-    u "*Drunk* Uhhh... nothing. It's not important."
+    u "*Borracho* Ehhh... Nada, no tiene importancia."
 
 # game/v5/v5.rpy:152
 translate espanol v5start_c9a8b304:
 
     # u "*Drunk* I should uhm... probably go home now, it's late."
-    u "*Drunk* I should uhm... probably go home now, it's late."
+    u "*Borracho* Debería ehm... Debería irme a mi habitación, es tarde."
 
 # game/v5/v5.rpy:157
 translate espanol v5start_a132ad83:
 
     # no "Alright, well let me know how your little love story ends."
-    no "Alright, well let me know how your little love story ends."
+    no "Está bien, pero avisame cómo termina tu pequeña historia de amor."
 
 # game/v5/v5.rpy:159
 translate espanol v5start_cdb2d7d3_1:
 
     # no "Night, [name]."
-    no "Night, [name]."
+    no "Buenas noches [name]."
 
 # game/v5/v5.rpy:164
 translate espanol v5start_52e838e0_1:
 
     # u "*Drunk* Night..."
-    u "*Drunk* Night..."
+    u "*Borracho* Buenas noches..."
 
 # game/v5/v5.rpy:170
 translate espanol v5start_04b2a395:
 
     # u "*Drunk* It's- it's nothing. I gotta go, I'll see you around, Nora."
-    u "*Drunk* It's- it's nothing. I gotta go, I'll see you around, Nora."
+    u "*Borracho* No- No es nada. Me tegno que ir, nos vemos más tarde Nora."
 
 # game/v5/v5.rpy:175
 translate espanol v5start_cc6f375e:
 
     # no "Alright, well let's hope you and our house don't get into another fight in the future."
-    no "Alright, well let's hope you and our house don't get into another fight in the future."
+    no "Bueno dale, y esperemos que vos y tu casa no se peleen en el futuro cercano."
 
 # game/v5/v5.rpy:180
 translate espanol v5start_0fba9dcb:
 
     # u "*Drunk* Yeah, right..."
-    u "*Drunk* Yeah, right..."
+    u "*Borracho* Si, claro..."
 
 # game/v5/v5.rpy:186
 translate espanol ev_bd_7e2bb437:
 
     # u "(Way to mess things up with Chloe... great fucking job, [name].)"
-    u "(Way to mess things up with Chloe... great fucking job, [name].)"
+    u "(Que manera de arruinar las cosas con Chloe... Gran trabajo [name])"
 
 # game/v5/v5.rpy:201
 translate espanol ev_bd_5a88a05e:
 
     # u "(Oh man, I drank way too much last night...)"
-    u "(Oh man, I drank way too much last night...)"
+    u "(Dios santo, tomé demasiado anoche...)"
 
 # game/v5/v5.rpy:206
 translate espanol ev_bd_7d193b2b:
 
     # u "*Yawns*"
-    u "*Yawns*"
+    u "*Bosteza*"
 
 # game/v5/v5.rpy:216
 translate espanol ev_bd_bf4ca58f:
 
     # u "(I completely forgot I bought this. I guess I can't really give it to Chloe anymore now, can I?)"
-    u "(I completely forgot I bought this. I guess I can't really give it to Chloe anymore now, can I?)"
+    u "(Me olvide completamente que había comprado esto. Supongo que ahora no puedo darselo a Chloe, ¿o no?)"
 
 # game/v5/v5.rpy:222
 translate espanol ev_bd_7d193b2b_1:
 
     # u "*Yawns*"
-    u "*Yawns*"
+    u "*Bosteza*"
 
 # game/v5/v5.rpy:227
 translate espanol ev_bd_fb22b6d4:
 
     # u "(At least my eye is starting to heal...)"
-    u "(At least my eye is starting to heal...)"
+    u "(Al menos mi ojo está empezando a verse mejor...)"
 
 # game/v5/v5.rpy:244
 translate espanol jorepb_4f1997c1:
@@ -208,199 +208,199 @@ translate espanol jorepb_4f1997c1:
 translate espanol jorepb_b2db8899:
 
     # cl "Hey. You wanna come in?"
-    cl "Hey. You wanna come in?"
+    cl "Hey. ¿Querés pasar?"
 
 # game/v5/v5.rpy:258
 translate espanol jorepb_428dfda8:
 
     # u "Hey uh, actually... can we- can we talk outside first? I- I just wanna clear something up."
-    u "Hey uh, actually... can we- can we talk outside first? I- I just wanna clear something up."
+    u "Hey eh, de hecho... ¿Podemos- Podemos hablar afuera primero? Solo- Solo quiero aclarar unas cosas."
 
 # game/v5/v5.rpy:263
 translate espanol jorepb_009c5a98:
 
     # cl "Uhm, yeah of course. Let me just put on my sweater."
-    cl "Uhm, yeah of course. Let me just put on my sweater."
+    cl "Ehm, si claro. Dejame ponerme un sweater."
 
 # game/v5/v5.rpy:268
 translate espanol jorepb_9b634cd2:
 
     # cl "So, what did you wanna talk to me about?"
-    cl "So, what did you wanna talk to me about?"
+    cl "Entonces, ¿de qué querías hablar conmigo?"
 
 # game/v5/v5.rpy:273
 translate espanol jorepb_11aed362:
 
     # u "Well, Ryan... *deep breath* Ryan said you were playing me and just using me to get back at Grayson."
-    u "Well, Ryan... *deep breath* Ryan said you were playing me and just using me to get back at Grayson."
+    u "Es que, Ryan... *respira hondo* Ryan me dijo que estabas jugando conmigo y que solamente me estabas usando para vengarte de Grayson."
 
 # game/v5/v5.rpy:278
 translate espanol jorepb_e1e72d62:
 
     # cl "What?? [name], I'm not, that's absurd..."
-    cl "What?? [name], I'm not, that's absurd..."
+    cl "¿¿Qué?? [name], nada que ver, eso es absurdo..."
 
 # game/v5/v5.rpy:283
 translate espanol jorepb_326bb96d:
 
     # u "He said Grayson told him about a lot of shady shit that you did in the past."
-    u "He said Grayson told him about a lot of shady shit that you did in the past."
+    u "Me dijo que Grayson le dijo sobre muchas cosas turbias que hiciste en el pasado."
 
 # game/v5/v5.rpy:287
 translate espanol jorepb_ac67d852:
 
     # cl "I didn't do anything shady. Grayson is just spreading lies like he always is."
-    cl "I didn't do anything shady. Grayson is just spreading lies like he always is."
+    cl "No hice nada turbio. Grayson está diciendo mentiras como siempre lo hace."
 
 # game/v5/v5.rpy:296
 translate espanol jorepb_ee48bd46:
 
     # u "I believe you. I just had to make sure, you know?"
-    u "I believe you. I just had to make sure, you know?"
+    u "Te creo. Solo quería estar seguro, ¿me entendes?"
 
 # game/v5/v5.rpy:301
 translate espanol jorepb_0ed764dd:
 
     # cl "Yeah, I get that."
-    cl "Yeah, I get that."
+    cl "Si, te entiendo."
 
 # game/v5/v5.rpy:303
 translate espanol jorepb_6fab2291:
 
     # cl "Hey I don't have that much more time tonight, but how about we hang out tomorrow?"
-    cl "Hey I don't have that much more time tonight, but how about we hang out tomorrow?"
+    cl "Bueno, no tengo mucho más tiempo esta noche, pero ¿qué tal si nos juntamos mañana?"
 
 # game/v5/v5.rpy:308
 translate espanol jorepb_4b8de160:
 
     # u "Yeah, sounds great. I'll see you then, good night."
-    u "Yeah, sounds great. I'll see you then, good night."
+    u "Dale, suena genial. Nos vemos mañana entonces, que descanses."
 
 # game/v5/v5.rpy:313
 translate espanol jorepb_982299b7:
 
     # cl "Good night, [name]."
-    cl "Good night, [name]."
+    cl "Que descanses [name]."
 
 # game/v5/v5.rpy:318
 translate espanol jorepb_b1758b11:
 
     # u "(Good thing I didn't get drunk, that could have very easily gone wrong and ended in a big fight with Chloe.)"
-    u "(Good thing I didn't get drunk, that could have very easily gone wrong and ended in a big fight with Chloe.)"
+    u "(Que bueno que no me emborraché, eso podría tranquilamente podría haber salido mal y haber terminado con una gran pelea con Chloe.)"
 
 # game/v5/v5.rpy:328
 translate espanol jorepb_ba1c4808:
 
     # u "(Alright, time for a new day.)"
-    u "(Alright, time for a new day.)"
+    u "(Bueno, hora de arrancar un nuevo día.)"
 
 # game/v5/v5.rpy:334
 translate espanol jorepb_7d193b2b:
 
     # u "*Yawns*"
-    u "*Yawns*"
+    u "*Bosteza*"
 
 # game/v5/v5.rpy:344
 translate espanol jorepb_935737be:
 
     # u "(I completely forgot I bought this. I should give it to Chloe when we hang out later today.)"
-    u "(I completely forgot I bought this. I should give it to Chloe when we hang out later today.)"
+    u "(Me olvidé completamente que había comprado esto. Debería darselo hoy a Chloe cuando nos juntemos más tarde.)"
 
 # game/v5/v5.rpy:350
 translate espanol jorepb_7d193b2b_1:
 
     # u "*Yawns*"
-    u "*Yawns*"
+    u "*Bosteza*"
 
 # game/v5/v5.rpy:355
 translate espanol jorepb_da5d6565:
 
     # u "(Hey, my eye is starting to heal...)"
-    u "(Hey, my eye is starting to heal...)"
+    u "(Mirá, mi ojo está empezando a verse mejor...)"
 
 # game/v5/v5.rpy:366
 translate espanol jorepb_339940d9:
 
     # u "You're lying. Yeah sure, the hottest girl in school wants me, the freshman who got beaten up at his first college party."
-    u "You're lying. Yeah sure, the hottest girl in school wants me, the freshman who got beaten up at his first college party."
+    u "Mentirosa. Si claro, la chica más linda de toda la universidad quiere estar conmigo, el pibe de primero que cagaron a piñas en la primer fiesta que va.."
 
 # game/v5/v5.rpy:371
 translate espanol jorepb_827ff41b:
 
     # u "That seems realistic, right?!"
-    u "That seems realistic, right?!"
+    u "Suena un poco ireal, ¡¿no es así?!"
 
 # game/v5/v5.rpy:376
 translate espanol jorepb_17de23f6:
 
     # cl "[name], I don't care about the fighting, or any of that shit. What Grayson did to you was pathetic. I like you 'cause you were funny and kind and ... and you cared."
-    cl "[name], I don't care about the fighting, or any of that shit. What Grayson did to you was pathetic. I like you 'cause you were funny and kind and ... and you cared."
+    cl "[name], no me importan las peleas o ninguna de esas mierdas. Lo que Grayson te hizo fue patético. Me gustas porque sos gracioso y tierno y... te preocupas ."
 
 # game/v5/v5.rpy:381
 translate espanol jorepb_023c11e2:
 
     # u "Then why did you go after Grayson instead of helping me up when he knocked me out??"
-    u "Then why did you go after Grayson instead of helping me up when he knocked me out??"
+    u "¿¿Entonces porqué fuiste atrás de Grayson en vez de ayudarme cuando me noqueo??"
 
 # game/v5/v5.rpy:386
 translate espanol jorepb_1e16adae:
 
     # cl "I- I..."
-    cl "I- I..."
+    cl "Yo- Yo..."
 
 # game/v5/v5.rpy:388
 translate espanol jorepb_a5093b42:
 
     # cl "I told him to stop, okay?? I didn't know if he was gonna hurt you even more."
-    cl "I told him to stop, okay?? I didn't know if he was gonna hurt you even more."
+    cl "Le dije que pare, ¿¿está bien?? No sabía si te iba a hacer incluso más daño."
 
 # game/v5/v5.rpy:393
 translate espanol jorepb_a688755b:
 
     # u "*Ryan said that you just saw his punch as a personal attack and didn't give one fuck about me being hurt. And you know what? Maybe he's right!"
-    u "*Ryan said that you just saw his punch as a personal attack and didn't give one fuck about me being hurt. And you know what? Maybe he's right!"
+    u "Ryan me dijo que viste su puño como un ataque personal y no te importo una mierda que me haya lastimado. ¿Y sabés qué? ¡Tal vez tiene razón!"
 
 # game/v5/v5.rpy:398
 translate espanol jorepb_fd7e91c0:
 
     # cl "What have I ever done for you not to fucking trust me one bit?!"
-    cl "What have I ever done for you not to fucking trust me one bit?!"
+    cl "¡¿Qué te hice para que no confíes en mi ni siquiera un poco?!"
 
 # game/v5/v5.rpy:403
 translate espanol jorepb_b5bccc9e:
 
     # u "Apparently a bunch of shady shit in the past!"
-    u "Apparently a bunch of shady shit in the past!"
+    u "¡Aparentemente muchas cosas turbias en el pasado!"
 
 # game/v5/v5.rpy:408
 translate espanol jorepb_6a8d31a8:
 
     # cl "*Gasp*"
-    cl "*Gasp*"
+    cl "*Respira hondo*"
 
 # game/v5/v5.rpy:410
 translate espanol jorepb_07eb5d33:
 
     # cl "You know how you can be sure I wasn't just using you?"
-    cl "You know how you can be sure I wasn't just using you?"
+    cl "¿Sabés como podes estar seguro de que no te estaba usando?"
 
 # game/v5/v5.rpy:412
 translate espanol jorepb_59dbc30c:
 
     # cl "Because if I was using you, I would probably try to seduce you back into trusting me right now."
-    cl "Because if I was using you, I would probably try to seduce you back into trusting me right now."
+    cl "Proque si te habría estado usando, probablemente te estaría tratando de seducir de nuevo para que confíes en mi en este instante."
 
 # game/v5/v5.rpy:414
 translate espanol jorepb_1619571b:
 
     # cl "But don't worry, I don't want that. We're done."
-    cl "But don't worry, I don't want that. We're done."
+    cl "Pero no te preocupes, no quiero hacer eso. No quiero saber más nada de vos."
 
 # game/v5/v5.rpy:419
 translate espanol jorepb_76b03b19:
 
     # u "Chloe!"
-    u "Chloe!"
+    u "¡Chloe!"
 
 # game/v5/v5.rpy:426
 translate espanol jorepb_c7c1b3e8:
@@ -412,19 +412,19 @@ translate espanol jorepb_c7c1b3e8:
 translate espanol jorepb_fae10745:
 
     # u "HNGGGG!"
-    u "HNGGGG!"
+    u "¡AHGGGG!"
 
 # game/v5/v5.rpy:443
 translate espanol jorepb_ac6b696f:
 
     # u "Ah, fuck!"
-    u "Ah, fuck!"
+    u "¡Ah, mierda!"
 
 # game/v5/v5.rpy:445
 translate espanol jorepb_05148e1b:
 
     # unknown "[name], is that you??"
-    unknown "[name], is that you??"
+    unknown "¿¿Sos vos [name]??"
 
 # game/v5/v5.rpy:452
 translate espanol jorepb_9ea2f78c:
@@ -436,25 +436,25 @@ translate espanol jorepb_9ea2f78c:
 translate espanol jorepb_8d1e43e3:
 
     # u "Oh shit..."
-    u "Oh shit..."
+    u "Ah mierda..."
 
 # game/v5/v5.rpy:459
 translate espanol jorepb_b1183ab6:
 
     # no "What are you doing here? And why did you just punch the wall?"
-    no "What are you doing here? And why did you just punch the wall?"
+    no "¿Qué estás haciendo acá? ¿Y pórqué le pegaste a la pared?"
 
 # game/v5/v5.rpy:466
 translate espanol jorepb_da2cfc62:
 
     # u "It's Chloe... I just- I just wanted to talk to her..."
-    u "It's Chloe... I just- I just wanted to talk to her..."
+    u "Es Chloe... Yo solo- Yo solo quería hablar con ella.."
 
 # game/v5/v5.rpy:468
 translate espanol jorepb_a4ac767d:
 
     # u "But it just got out of control..."
-    u "But it just got out of control..."
+    u "Pero se me fue de las manos..."
 
 # game/v5/v5.rpy:472
 translate espanol jorepb_f42e30d3:
@@ -466,157 +466,157 @@ translate espanol jorepb_f42e30d3:
 translate espanol jorepb_8f75944f:
 
     # no "Chloe can be a bit overdramatic sometimes, you know."
-    no "Chloe can be a bit overdramatic sometimes, you know."
+    no "Chloe puede ser un poco exagerada a veces, ya la conoces."
 
 # game/v5/v5.rpy:479
 translate espanol jorepb_e0724b74:
 
     # no "Maybe she'll calm down by tomorrow."
-    no "Maybe she'll calm down by tomorrow."
+    no "Tal vez para mañana esté más calmada"
 
 # game/v5/v5.rpy:484
 translate espanol jorepb_8b940739:
 
     # u "Right..."
-    u "Right..."
+    u "Puede ser..."
 
 # game/v5/v5.rpy:489
 translate espanol jorepb_30adda01:
 
     # no "Hey, it's none of my business, but... what did you guys talk about that made you wanna punch a wall after?"
-    no "Hey, it's none of my business, but... what did you guys talk about that made you wanna punch a wall after?"
+    no "Este, no es de mi incunvencia, pero... ¿De qué hablaron que te hizo querer pegarle a la pared?"
 
 # game/v5/v5.rpy:496
 translate espanol jorepb_d9ef0c47:
 
     # u "My uhm, my friend said that Chloe did some shady shit in the past and I just had to find out the truth."
-    u "My uhm, my friend said that Chloe did some shady shit in the past and I just had to find out the truth."
+    u "My ehm, mi amigo, él- él me dijo que Chloe hizo algunas cosas turbias en el pasado y ¡tenía que saber la verdad!"
 
 # game/v5/v5.rpy:501
 translate espanol jorepb_203a8419:
 
     # no "And what did you find out?"
-    no "And what did you find out?"
+    no "¿Y qué averiguaste?"
 
 # game/v5/v5.rpy:506
 translate espanol jorepb_67cf5e6e:
 
     # u "Nothing! I think all I did was ruin our relationship..."
-    u "Nothing! I think all I did was ruin our relationship..."
+    u "¡Nada! Lo único que hice fue arruinar nuestra amistad..."
 
 # game/v5/v5.rpy:511
 translate espanol jorepb_4dc2dc97:
 
     # no "Yeah, that sounds about right."
-    no "Yeah, that sounds about right."
+    no "Sep, justo lo que pensaba."
 
 # game/v5/v5.rpy:516
 translate espanol jorepb_0330cd59:
 
     # u "What- What do you mean?"
-    u "What- What do you mean?"
+    u "¿A- A qué te referís?"
 
 # game/v5/v5.rpy:521
 translate espanol jorepb_90159cdb:
 
     # no "Dude, you're upset and don't even know the whole story. What did you think was gonna happen when you talk to her?"
-    no "Dude, you're upset and don't even know the whole story. What did you think was gonna happen when you talk to her?"
+    no "Flaco, estás borracho, molesto y ni siquiera sabes toda la historia. ¿Qué pensaste que iba a pasra cuando hablaras con él?"
 
 # game/v5/v5.rpy:526
 translate espanol jorepb_c88a1b09:
 
     # u "I don't know..."
-    u "I don't know..."
+    u "No lo se..."
 
 # game/v5/v5.rpy:528
 translate espanol jorepb_a88454dd:
 
     # u "What do you mean the whole story?"
-    u "What do you mean the whole story?"
+    u "¿A qué te referís con toda la historía?"
 
 # game/v5/v5.rpy:533
 translate espanol jorepb_f53fb841:
 
     # no "It's late, I really don't wanna get into it. But hey, let me know how your little love story ends."
-    no "It's late, I really don't wanna get into it. But hey, let me know how your little love story ends."
+    no "Es tarde y no tengo ningún interés de meterme en el medio. Pero bueno, avisame cómo termina tu pequeña historia de amor."
 
 # game/v5/v5.rpy:535
 translate espanol jorepb_cdb2d7d3:
 
     # no "Night, [name]."
-    no "Night, [name]."
+    no "Buenas noches [name]."
 
 # game/v5/v5.rpy:540
 translate espanol jorepb_88a3c768:
 
     # u "Night..."
-    u "Night..."
+    u "Buenas noches"
 
 # game/v5/v5.rpy:546
 translate espanol jorepb_ad12e9fe:
 
     # u "Uhhh... nothing. It's not important."
-    u "Uhhh... nothing. It's not important."
+    u "Ehhh... Nada, no tiene importancia."
 
 # game/v5/v5.rpy:548
 translate espanol jorepb_7ead0570:
 
     # u "I should uhm... probably go home now, it's late."
-    u "I should uhm... probably go home now, it's late."
+    u "Debería ehm... Debería irme a mi habitación, es tarde.."
 
 # game/v5/v5.rpy:553
 translate espanol jorepb_a132ad83:
 
     # no "Alright, well let me know how your little love story ends."
-    no "Alright, well let me know how your little love story ends."
+    no "Está bien, pero avisame cómo termina tu pequeña historia de amor"
 
 # game/v5/v5.rpy:555
 translate espanol jorepb_cdb2d7d3_1:
 
     # no "Night, [name]."
-    no "Night, [name]."
+    no "Buenas noches [name]."
 
 # game/v5/v5.rpy:560
 translate espanol jorepb_88a3c768_1:
 
     # u "Night..."
-    u "Night..."
+    u "Buenas noches..."
 
 # game/v5/v5.rpy:566
 translate espanol jorepb_f57452fe:
 
     # u "It's- it's nothing. I gotta go, I'll see you around, Nora."
-    u "It's- it's nothing. I gotta go, I'll see you around, Nora."
+    u "No- No es nada. Me tegno que ir, nos vemos más tarde Nora.."
 
 # game/v5/v5.rpy:571
 translate espanol jorepb_cc6f375e:
 
     # no "Alright, well let's hope you and our house don't get into another fight in the future."
-    no "Alright, well let's hope you and our house don't get into another fight in the future."
+    no "Bueno dale, y esperemos que vos y tu casa no se peleen en el futuro cercano."
 
 # game/v5/v5.rpy:576
 translate espanol jorepb_76c398ec:
 
     # u "Yeah, right..."
-    u "Yeah, right..."
+    u "Si, claro..."
 
 # game/v5/v5.rpy:582
 translate espanol nnbd_7e2bb437:
 
     # u "(Way to mess things up with Chloe... great fucking job, [name].)"
-    u "(Way to mess things up with Chloe... great fucking job, [name].)"
+    u "(Que manera de arruinar las cosas con Chloe... Gran trabajo [name])"
 
 # game/v5/v5.rpy:603
 translate espanol nnbd_7d193b2b:
 
     # u "*Yawns*"
-    u "*Yawns*"
+    u "*Bosteza*"
 
 # game/v5/v5.rpy:613
 translate espanol nnbd_bf4ca58f:
 
     # u "(I completely forgot I bought this. I guess I can't really give it to Chloe anymore now, can I?)"
-    u "(I completely forgot I bought this. I guess I can't really give it to Chloe anymore now, can I?)"
+    u "(Me olvide completamente que había comprado esto. Supongo que ahora no puedo darselo a Chloe, ¿o no?)"
 
 # game/v5/v5.rpy:619
 translate espanol nnbd_7d193b2b_1:
@@ -628,265 +628,265 @@ translate espanol nnbd_7d193b2b_1:
 translate espanol nnbd_fb22b6d4:
 
     # u "(At least my eye is starting to heal...)"
-    u "(At least my eye is starting to heal...)"
+    u "(Al menos mi ojo está empezando a verse mejor...)"
 
 # game/v5/v5.rpy:664
 translate espanol newchloec_e18add73:
 
     # u "(Oh shit, I'm getting a bunch of messages.)"
-    u "(Oh shit, I'm getting a bunch of messages.)"
+    u "(A la mierda, me están llegando muchos mensajes.)"
 
 # game/v5/v5.rpy:670
 translate espanol phonex_fa9e2e90:
 
     # u "(I should probably reply to some of them.)"
-    u "(I should probably reply to some of them.)"
+    u "(Al menos debería responder a algunos.)"
 
 # game/v5/v5.rpy:673
 translate espanol phonex_8820f8c7:
 
     # u "(Time to get ready.)"
-    u "(Time to get ready.)"
+    u "(Momento de prepararse.)"
 
 # game/v5/v5.rpy:680
 translate espanol phoney_6b7f28be:
 
     # u "(Maybe it's Lauren and she wants to talk about what happened? I should definitely check.)"
-    u "(Maybe it's Lauren and she wants to talk about what happened? I should definitely check.)"
+    u "(¿Tal vez es Lauren y quiere hablar de lo que pasó? Debería ver que onda.)"
 
 # game/v5/v5.rpy:698
 translate espanol continuez_8f6227f7:
 
     # u "Hey, Lauren."
-    u "Hey, Lauren."
+    u "Hola Lauren."
 
 # game/v5/v5.rpy:703
 translate espanol continuez_8b4972a9:
 
     # la "Heyyy."
-    la "Heyyy."
+    la "Holaaa."
 
 # game/v5/v5.rpy:716
 translate espanol continuez_70720724:
 
     # u "*Chuckles* Is that how we greet each other now?"
-    u "*Chuckles* Is that how we greet each other now?"
+    u "*Risas* ¿Acaso nos vamos a saludar así de ahora en más?"
 
 # game/v5/v5.rpy:721
 translate espanol continuez_6b90dfa7:
 
     # la "I mean we are kinda dating and I do enjoy kissing you, so if you don't have any complaints..."
-    la "I mean we are kinda dating and I do enjoy kissing you, so if you don't have any complaints..."
+    la "A ver, medio como que estamos saliendo y la verdad me gusta besarte, asique a menos que tengas alguna queja..."
 
 # game/v5/v5.rpy:726
 translate espanol continuez_80148402:
 
     # u "(If we kiss in public, other girls are bound to find out that I'm dating Lauren.)"
-    u "(If we kiss in public, other girls are bound to find out that I'm dating Lauren.)"
+    u "(Si nos besamos en público, las otras chicas seguramente se van a enterar que estoy saliendo con Lauren.)"
 
 # game/v5/v5.rpy:733
 translate espanol continuez_98b5930c:
 
     # u "Complaints? I love kissing you. I can't wait till we say goodbye and I can kiss you again. *Laughs*"
-    u "Complaints? I love kissing you. I can't wait till we say goodbye and I can kiss you again. *Laughs*"
+    u "¿Quejas? Me encanta besarte. No puedo esperar a decirte chau así puedo volver a besarte de nuevo. *Ríe*"
 
 # game/v5/v5.rpy:738
 translate espanol continuez_e0d74a98:
 
     # la "*Tsk* I feel like you saying you can't wait for us to finish hanging out isn't as romantic as you may think."
-    la "*Tsk* I feel like you saying you can't wait for us to finish hanging out isn't as romantic as you may think."
+    la "*Tch* Creo que decir que no podes esperar a que dejemos de estar juntos no es tan romántico como crees."
 
 # game/v5/v5.rpy:743
 translate espanol continuez_39a9a9b0:
 
     # u "Hahaha, oops."
-    u "Hahaha, oops."
+    u "Jajaja, oops."
 
 # game/v5/v5.rpy:748
 translate espanol continuez_9eb9ba4e:
 
     # u "Uhm, actually do you mind if we don't do that in public?"
-    u "Uhm, actually do you mind if we don't do that in public?"
+    u "Ehm, de hecho, ¿te molesta si no lo hacemos en público?"
 
 # game/v5/v5.rpy:753
 translate espanol continuez_bd485a95:
 
     # la "Oh... yeah, of course, I'm sorry, I didn't-"
-    la "Oh... yeah, of course, I'm sorry, I didn't-"
+    la "Ah... si, obvio, perdón, no quería-"
 
 # game/v5/v5.rpy:758
 translate espanol continuez_07f0645f:
 
     # u "It's not that I don't like kissing you, it's just..."
-    u "It's not that I don't like kissing you, it's just..."
+    u "No es que no me guste besarte, es que..."
 
 # game/v5/v5.rpy:760
 translate espanol continuez_c9c1b2f5:
 
     # u "I'm not really into public displays of affection."
-    u "I'm not really into public displays of affection."
+    u "No soy de las personas a las que les gusta las muestras de cariño públicas."
 
 # game/v5/v5.rpy:762
 translate espanol continuez_bc0e3463:
 
     # u "It's uhm... how I was raised."
-    u "It's uhm... how I was raised."
+    u "Así es ehm... Así es como me criaron."
 
 # game/v5/v5.rpy:767
 translate espanol continuez_055387df:
 
     # la "Oh, and a little kiss like that is already too much?"
-    la "Oh, and a little kiss like that is already too much?"
+    la "Ah, ¿y un besito como ese ya es mucho?"
 
 # game/v5/v5.rpy:769
 translate espanol continuez_9d4d6ec5:
 
     # la "I wasn't talking about a full on make out session, haha."
-    la "I wasn't talking about a full on make out session, haha."
+    la "No me refería a ponerse a besarse desenfrenadamente, jaja."
 
 # game/v5/v5.rpy:771
 translate espanol continuez_add5a249:
 
     # la "Also, it's not like anyone will see us here."
-    la "Also, it's not like anyone will see us here."
+    la "Además, ni que alguién nos fuese a ver acá."
 
 # game/v5/v5.rpy:776
 translate espanol continuez_71159b61:
 
     # u "(Shit, she's pushing back. But if I want to avoid other girls finding out about us, I can't just kiss her in public.)"
-    u "(Shit, she's pushing back. But if I want to avoid other girls finding out about us, I can't just kiss her in public.)"
+    u "(Mierda, lo que dice tiene sentido. Pero si quiero evitar que las otras chicas se enteren de nosotros, no puedo ir besandola en público.)"
 
 # game/v5/v5.rpy:784
 translate espanol continuez_4b71f0f5:
 
     # u "Sorry, but can we just make sure we're alone before we do stuff like that. I just feel uncomfortable even just kissing in public."
-    u "Sorry, but can we just make sure we're alone before we do stuff like that. I just feel uncomfortable even just kissing in public."
+    u "Perdón, pero ¿podemos asegurarnos que estemos solos antes de hacer algo similar? La verdad me siento incómodo con el simple hecho de besarse en público." 
 
 # game/v5/v5.rpy:789
 translate espanol continuez_a3390623:
 
     # la "Okay, yeah. No public display of affection, I get it..."
-    la "Okay, yeah. No public display of affection, I get it..."
+    la "Okey, está bien. Ninguna muestra de afecto en público, lo entiendo..."
 
 # game/v5/v5.rpy:797
 translate espanol continuez_60785ac8:
 
     # u "Actually, you're right, sorry. A kiss is fine."
-    u "Actually, you're right, sorry. A kiss is fine."
+    u "De hecho, tenés razón, perdón. Un beso está bien."
 
 # game/v5/v5.rpy:799
 translate espanol continuez_5ad03eed:
 
     # u "Let's just not go overboard, haha."
-    u "Let's just not go overboard, haha."
+    u "Solo no nos pasemos, jaja."
 
 # game/v5/v5.rpy:804
 translate espanol continuez_f190eaf9:
 
     # la "Yeah, of course."
-    la "Yeah, of course."
+    la "Si, obvio."
 
 # game/v5/v5.rpy:809
 translate espanol continuez_7498febe:
 
     # la "At least not in public."
-    la "At least not in public."
+    la "Al menos no en público."
 
 # game/v5/v5.rpy:818
 translate espanol continuez_542a7c37:
 
     # u "So, why exactly are we doing this in a classroom?"
-    u "So, why exactly are we doing this in a classroom?"
+    u "Asique, ¿qué estamos haciendo en este salón en particular?"
 
 # game/v5/v5.rpy:822
 translate espanol continuez_7a16bc12:
 
     # u "Anyways, why exactly are we doing this in a classroom?"
-    u "Anyways, why exactly are we doing this in a classroom?"
+    u "De todas maneras, ¿qué estamos haciendo en este salón en particular?"
 
 # game/v5/v5.rpy:828
 translate espanol continueag_b5e4dde2:
 
     # la "Well, my psychology teacher Mrs. Anderson said that she'd leave this room open over the weekend so that we can do the tests on neutral ground."
-    la "Well, my psychology teacher Mrs. Anderson said that she'd leave this room open over the weekend so that we can do the tests on neutral ground."
+    la "Bueno, mi profesora de psicología, la Srta. Anderson, me dijo que iba a dejar este salón abierto el fin de semana para que podamos hacer las pruebas en un terreno neutral."
 
 # game/v5/v5.rpy:833
 translate espanol continueag_7c5a55ca:
 
     # u "Uhh... neutral ground?"
-    u "Uhh... neutral ground?"
+    u "Ehhh... ¿Terreno neutral?"
 
 # game/v5/v5.rpy:838
 translate espanol continueag_664cf29f:
 
     # la "You know, your answers can be affected by the environment you're in and an empty classroom should minimize the impact of that."
-    la "You know, your answers can be affected by the environment you're in and an empty classroom should minimize the impact of that."
+    la "Ya sabes, tus respuestas pueden ser afectadas por el ambiente en elque estas y un salón vació debería minimizar el impacto de eso."
 
 # game/v5/v5.rpy:843
 translate espanol continueag_1fe62b9e:
 
     # u "Uhm, sure."
-    u "Uhm, sure."
+    u "Ehm, claro."
 
 # game/v5/v5.rpy:849
 translate espanol gotest_a17c9ba8:
 
     # la "Alright, let's get started, shall we?"
-    la "Alright, let's get started, shall we?"
+    la "Bueno, empecemos, ¿dale?"
 
 # game/v5/v5.rpy:860
 translate espanol gokissb_a72f7f6d:
 
     # la "So I'll tell you a series of statements and you just tell me if you agree or disagree, okay?"
-    la "So I'll tell you a series of statements and you just tell me if you agree or disagree, okay?"
+    la "Te voy a decir una serie de afirmaciones y me tenes que decir si coincidis o no, ¿está bien?"
 
 # game/v5/v5.rpy:865
 translate espanol gokissb_2e8c8088:
 
     # u "Yeah, sounds good."
-    u "Yeah, sounds good."
+    u "Si, suena bien."
 
 # game/v5/v5.rpy:870
 translate espanol gokissb_86166407:
 
     # la "Remember, there is no right or wrong, so just answer honestly."
-    la "Remember, there is no right or wrong, so just answer honestly."
+    la "Acordate que no hay respuestas buenas ni malas, asique respondé honestamente."
 
 # game/v5/v5.rpy:875
 translate espanol gokissb_bbdb12d1:
 
     # la "Statement one: I struggle making difficult decisions."
-    la "Statement one: I struggle making difficult decisions."
+    la "Primera afirmación: Me cuesta tomar decisiones dificiles."
 
 # game/v5/v5.rpy:885
 translate espanol gokissb_f9c09402:
 
     # u "Agree."
-    u "Agree."
+    u "Coincido."
 
 # game/v5/v5.rpy:893
 translate espanol gokissb_faa31c13:
 
     # u "Disagree."
-    u "Disagree."
+    u "No coincido."
 
 # game/v5/v5.rpy:898
 translate espanol gokissb_fcc6126a:
 
     # la "Two: I consider myself an animal lover."
-    la "Two: I consider myself an animal lover."
+    la "Dos: me considero un amante de los animales."
 
 # game/v5/v5.rpy:909
 translate espanol gokissb_3f8fbff4:
 
     # u "Uhm... agree I guess."
-    u "Uhm... agree I guess."
+    u "Ehm... creo que coincido."
 
 # game/v5/v5.rpy:917
 translate espanol gokissb_d8c759ea:
 
     # u "Hmm... disagree I guess."
-    u "Hmm... disagree I guess."
+    u "Hmm... creo que no coincido."
 
 # game/v5/v5.rpy:922
 translate espanol gokissb_2d481ab0:
@@ -898,505 +898,505 @@ translate espanol gokissb_2d481ab0:
 translate espanol gokissb_cce18ef1:
 
     # la "Three: I consider myself a relationship person."
-    la "Three: I consider myself a relationship person."
+    la "Tres: Me considero una persona de pareja."
 
 # game/v5/v5.rpy:937
 translate espanol gokissb_21ff373e:
 
     # u "I definitely do."
-    u "I definitely do."
+    u "Definitivamente me considero una."
 
 # game/v5/v5.rpy:943
 translate espanol gokissb_e4412bdc:
 
     # la "Right answer."
-    la "Right answer."
+    la "Respuesta correcta."
 
 # game/v5/v5.rpy:948
 translate espanol gokissb_859652e3:
 
     # u "Woah, I thought there was no right answer."
-    u "Woah, I thought there was no right answer."
+    u "Wow, pensé que no había respuestas correctas."
 
 # game/v5/v5.rpy:953
 translate espanol gokissb_594e13dd:
 
     # la "Well, I may have lied about that."
-    la "Well, I may have lied about that."
+    la "Pueeede que haya mentido sobre eso."
 
 # game/v5/v5.rpy:958
 translate espanol gokissb_a15b70f3:
 
     # u "*Chuckles* I feel like this personality test is just a pretext so you can vet me."
-    u "*Chuckles* I feel like this personality test is just a pretext so you can vet me."
+    u "*Risas* Siento que esta prueba de personalidad es un pretexto para que investigues."
 
 # game/v5/v5.rpy:963
 translate espanol gokissb_34525a0a:
 
     # la "That is certainly a possibility."
-    la "That is certainly a possibility."
+    la "Esa definitivamente es una posibilidad."
 
 # game/v5/v5.rpy:968
 translate espanol gokissb_2df543be:
 
     # u "Am I passing?"
-    u "Am I passing?"
+    u "¿Y estoy pasando?"
 
 # game/v5/v5.rpy:973
 translate espanol gokissb_12e6a60f:
 
     # la "So far..."
-    la "So far..."
+    la "Hasta ahora..."
 
 # game/v5/v5.rpy:979
 translate espanol gokissb_5812dc4c:
 
     # la "Haha, I thought you were gonna say no."
-    la "Haha, I thought you were gonna say no."
+    la "Jaja, pensé que ibas a decir que no."
 
 # game/v5/v5.rpy:984
 translate espanol gokissb_7d16bb34:
 
     # u "Really? Why?"
-    u "Really? Why?"
+    u "¿En serio? ¿Porqué?"
 
 # game/v5/v5.rpy:989
 translate espanol gokissb_942e4020:
 
     # la "I don't know, you hang out with a lot of different girls, right?"
-    la "I don't know, you hang out with a lot of different girls, right?"
+    la "No lo se, te juntas con muchas chicas vos, ¿verdad?"
 
 # game/v5/v5.rpy:994
 translate espanol gokissb_f69f1c5b:
 
     # u "Yeah, but that doesn't mean that I don't just have eyes for one of them."
-    u "Yeah, but that doesn't mean that I don't just have eyes for one of them."
+    u "Si, pero eso no significa que solo tengo ojos para una de ellas."
 
 # game/v5/v5.rpy:1007
 translate espanol gokissb_91bf48e2:
 
     # u "Not really, sooo... disagree."
-    u "Not really, sooo... disagree."
+    u "Realmente no, asiqueee... no coincido."
 
 # game/v5/v5.rpy:1015
 translate espanol gokissb_cb5ed241:
 
     # la "Well that's good to know."
-    la "Well that's good to know."
+    la "Bueno saberlo."
 
 # game/v5/v5.rpy:1020
 translate espanol gokissb_6c37984e:
 
     # u "Lauren, it's not like-"
-    u "Lauren, it's not like-"
+    u "Lauren, no es que-"
 
 # game/v5/v5.rpy:1025
 translate espanol gokissb_339fe58a:
 
     # la "Let's just move on."
-    la "Let's just move on."
+    la "Solo sigamos."
 
 # game/v5/v5.rpy:1031
 translate espanol gokissb_0414ffc0:
 
     # la "That's what I thought, haha."
-    la "That's what I thought, haha."
+    la "Eso es lo que pensé, jaja."
 
 # game/v5/v5.rpy:1036
 translate espanol gokissb_7d16bb34_1:
 
     # u "Really? Why?"
-    u "Really? Why?"
+    u "¿En serio? ¿Porqué?"
 
 # game/v5/v5.rpy:1041
 translate espanol gokissb_942e4020_1:
 
     # la "I don't know, you hang out with a lot of different girls, right?"
-    la "I don't know, you hang out with a lot of different girls, right?"
+    la "No lo se, te juntas con muchas chicas vos, ¿verdad?"
 
 # game/v5/v5.rpy:1046
 translate espanol gokissb_da98d599:
 
     # u "Yeah, I guess that's true."
-    u "Yeah, I guess that's true."
+    u "Si, supongo que es verdad."
 
 # game/v5/v5.rpy:1056
 translate espanol gokissb_fb97281e:
 
     # la "So, these were the calibration questions and now we move on to some ethical dilemmas to test your character."
-    la "So, these were the calibration questions and now we move on to some ethical dilemmas to test your character."
+    la "Asique, estas eran preguntas para calibrar la prueba, ahora vamos a unos dilemas éticos para desafiar tu personalidad."
 
 # game/v5/v5.rpy:1061
 translate espanol gokissb_fdbf6092:
 
     # u "What do you mean, test my character?"
-    u "What do you mean, test my character?"
+    u "¿A qué te referis con mi personalidad?"
 
 # game/v5/v5.rpy:1066
 translate espanol gokissb_814bed1c:
 
     # la "Well we're supposed to cross-reference your answers to these questions with your behavior in difficult situations."
-    la "Well we're supposed to cross-reference your answers to these questions with your behavior in difficult situations."
+    la "Es que se supone que tenemos que juntar tus respuestas a estas preguntas con tu comportamiento en situaciones difíciles."
 
 # game/v5/v5.rpy:1068
 translate espanol gokissb_1a12ffaa:
 
     # la "Have you heard of the trolley problem?"
-    la "Have you heard of the trolley problem?"
+    la "¿Escuchaste alguna vez del dilema del tranvía?"
 
 # game/v5/v5.rpy:1075
 translate espanol gokissb_bf3a16af:
 
     # u "Yeah, it's about choosing who the train runs over right?"
-    u "Yeah, it's about choosing who the train runs over right?"
+    u "Si, ¿es sobre elegir sobre a quién va a pisar el tranvía verdad?"
 
 # game/v5/v5.rpy:1080
 translate espanol gokissb_b9fe08b2:
 
     # la "Uhm yeah, that's broadly it."
-    la "Uhm yeah, that's broadly it."
+    la "Eh, si, podría decirse que si."
 
 # game/v5/v5.rpy:1086
 translate espanol gokissb_f68b3c3f:
 
     # u "Uhm, no I don't think so."
-    u "Uhm, no I don't think so."
+    u "Ehm, no, creo que no lo conozco."
 
 # game/v5/v5.rpy:1091
 translate espanol gokissb_e9e4a51b:
 
     # la "Hmm, maybe it's best if you just experience it."
-    la "Hmm, maybe it's best if you just experience it."
+    la "Hmm, tal vez es mejor si lo experimentas."
 
 # game/v5/v5.rpy:1094
 translate espanol fa_ad_e5133ff6:
 
     # la "Okay, I want you to rest your head on the table and close your eyes."
-    la "Okay, I want you to rest your head on the table and close your eyes."
+    la "Bueno, quiero que apoyes la cabeza en la mesa y cierres los ojos."
 
 # game/v5/v5.rpy:1099
 translate espanol fa_ad_040c4976:
 
     # u "What? Right now?"
-    u "What? Right now?"
+    u "¿Qué? ¿Ahora?"
 
 # game/v5/v5.rpy:1104
 translate espanol fa_ad_a67df8d1:
 
     # la "Yeah. Come on, the personality test is only accurate if you participate."
-    la "Yeah. Come on, the personality test is only accurate if you participate."
+    la "Si. Dale, el test de personalidad solo es efectivo si cooperas."
 
 # game/v5/v5.rpy:1109
 translate espanol fa_ad_b8911521:
 
     # u "Alright."
-    u "Alright."
+    u "Está bien."
 
 # game/v5/v5.rpy:1114
 translate espanol fa_ad_252141bd:
 
     # u "So, now what?"
-    u "So, now what?"
+    u "¿Y ahora qué?"
 
 # game/v5/v5.rpy:1116
 translate espanol fa_ad_e23d4f94:
 
     # la "Now, imagine we're on a fast moving train."
-    la "Now, imagine we're on a fast moving train."
+    la "Ahora imagina que estas en un tranvía que se mueve rápido."
 
 # game/v5/v5.rpy:1129
 translate espanol continuetrolley_d5f3f034:
 
     # u "Done."
-    u "Done."
+    u "Listo."
 
 # game/v5/v5.rpy:1134
 translate espanol continuetrolley_d2aab557:
 
     # la "Turn to the front, imagine there's a big red lever."
-    la "Turn to the front, imagine there's a big red lever."
+    la "Miras al frente, imagina que hay una palanca roja."
 
 # game/v5/v5.rpy:1139
 translate espanol continuetrolley_6c920b56:
 
     # u "Okay, yeah."
-    u "Okay, yeah."
+    u "Ajam, si."
 
 # game/v5/v5.rpy:1142
 translate espanol continuetrolley_176d311c:
 
     # la "You said that you struggle making difficult decisions, let's see how that impacts your behavior in the following situation."
-    la "You said that you struggle making difficult decisions, let's see how that impacts your behavior in the following situation."
+    la "Dijiste que te cuesta tomar decisiones difíciles, veamos que tanto impacta tu comportamiento en la siguiente situación."
 
 # game/v5/v5.rpy:1145
 translate espanol continuetrolley_8b0ef562:
 
     # la "You said that you don't struggle making difficult decisions, let's see how if that's still true in the following situation."
-    la "You said that you don't struggle making difficult decisions, let's see how if that's still true in the following situation."
+    la "Dijiste que te no cuesta tomar decisiones difíciles, veamos que tanto impacta tu comportamiento en la siguiente situación."
 
 # game/v5/v5.rpy:1147
 translate espanol continuetrolley_4620f874:
 
     # la "As the train's moving forward you come closer to an intersection."
-    la "As the train's moving forward you come closer to an intersection."
+    la "En punto el tranvía se topa con una intersección."
 
 # game/v5/v5.rpy:1152
 translate espanol continuetrolley_5db69547:
 
     # la "The train's heading to the right side of the intersection, where five people are scared for their lives."
-    la "The train's heading to the right side of the intersection, where five people are scared for their lives."
+    la "El tranvía está dirigiendose hacia el lado dereceho de la intersección, donde hay cinco personas atadas."
 
 # game/v5/v5.rpy:1157
 translate espanol continuetrolley_a7c0fc3e:
 
     # la "Now, you could flick the lever in order for the train to switch to the left track. However, there's also a person scared for their life on that track."
-    la "Now, you could flick the lever in order for the train to switch to the left track. However, there's also a person scared for their life on that track."
+    la "Ahora, vos podrías tirar de la palanca para que el tranvía vaya al lado izquierdo. Sin embargo, ahí hay una persona asustada atada."
 
 # game/v5/v5.rpy:1162
 translate espanol continuetrolley_c5ad21f9:
 
     # la "Now it's up to you, will you actively decide to kill someone to save five people or will you stand by and see five times as many people die as needed?"
-    la "Now it's up to you, will you actively decide to kill someone to save five people or will you stand by and see five times as many people die as needed?"
+    la "Asique depende de vos, ¿matarías a una persona para salvar a otras cinco o te quedarías parado mientras mueren otras cinco para salvar a una persona?"
 
 # game/v5/v5.rpy:1167
 translate espanol continuetrolley_6b879436:
 
     # la "You can decide to switch the lever, but remember, you're on a timer. If you don't switch the lever within a few seconds, the train will keep its current course."
-    la "You can decide to switch the lever, but remember, you're on a timer. If you don't switch the lever within a few seconds, the train will keep its current course."
+    la "Vos decidís si tiras de la palanca, pero acordate que estas a contrareloj. Si no tiras de la palanca en un tiempo determinado el tranvía va a seguir su curso."
 
 # game/v5/v5.rpy:1186
 translate espanol trolleyaa_c441c6f8:
 
     # u "Holy fuck..."
-    u "Holy fuck..."
+    u "A la mierda..."
 
 # game/v5/v5.rpy:1204
 translate espanol trolleyab_c441c6f8:
 
     # u "Holy fuck..."
-    u "Holy fuck..."
+    u "A la mierda...."
 
 # game/v5/v5.rpy:1212
 translate espanol continueam_0aa37b28:
 
     # u "Jesus, that got pretty intense..."
-    u "Jesus, that got pretty intense..."
+    u "A la mierda, eso fue intenso..."
 
 # game/v5/v5.rpy:1217
 translate espanol continueam_32671ba6:
 
     # la "I know these questions can be difficult..."
-    la "I know these questions can be difficult..."
+    la "Se que estas preguntas pueden ser un poco difíciles..."
 
 # game/v5/v5.rpy:1219
 translate espanol continueam_71365da0:
 
     # la "Are you okay with doing another one?"
-    la "Are you okay with doing another one?"
+    la "¿Estás bien para hacer otra pregunta?"
 
 # game/v5/v5.rpy:1226
 translate espanol continueam_671a2e88:
 
     # u "Yeah, let's do it."
-    u "Yeah, let's do it."
+    u "Si, dale."
 
 # game/v5/v5.rpy:1231
 translate espanol continueam_2f4e8041:
 
     # la "Alright, imagine yourself back on the train, moving as fast as before."
-    la "Alright, imagine yourself back on the train, moving as fast as before."
+    la "Bueno, imaginate que estas de nuevo en el tranvía, que se mueve igual de rápido que antes."
 
 # game/v5/v5.rpy:1238
 translate espanol continueam_72c4e8dc:
 
     # u "Okay, done."
-    u "Okay, done."
+    u "Bueno, listo."
 
 # game/v5/v5.rpy:1243
 translate espanol continueam_432f6b54:
 
     # la "Look out the front again."
-    la "Look out the front again."
+    la "Mira al frente de nuevo."
 
 # game/v5/v5.rpy:1248
 translate espanol continueam_b8911521:
 
     # u "Alright."
-    u "Alright."
+    u "Listo."
 
 # game/v5/v5.rpy:1251
 translate espanol continueam_34549fd7:
 
     # la "You said that you consider yourself an animal lover. Let's test how much you really love animals."
-    la "You said that you consider yourself an animal lover. Let's test how much you really love animals."
+    la "Dijiste que te consideras un amante de los animales. Ahora probemos que tanto amas a los animales."
 
 # game/v5/v5.rpy:1254
 translate espanol continueam_e7c5613f:
 
     # la "You said that you wouldn't consider yourself an animal lover. Hopefully that'll make the next scenario easier."
-    la "You said that you wouldn't consider yourself an animal lover. Hopefully that'll make the next scenario easier."
+    la "Dijiste que no te consideras un amante de los animales. Eso tal vez te haga el próximo escenario más fácil."
 
 # game/v5/v5.rpy:1256
 translate espanol continueam_57468466:
 
     # la "As the train's moving forward you come closer to another intersection."
-    la "As the train's moving forward you come closer to another intersection."
+    la "Mientras el tranvía sigue moviendose, te cruzas con otra insersección."
 
 # game/v5/v5.rpy:1261
 translate espanol continueam_4f3d7069:
 
     # la "The train's heading to the right side of the intersection, where this time only one person's scared for their life."
-    la "The train's heading to the right side of the intersection, where this time only one person's scared for their life."
+    la "El tranvía se dirije hacia el lado derecho de la intersección, pero esta vez hay una sola persona atada."
 
 # game/v5/v5.rpy:1266
 translate espanol continueam_e0e80fa6:
 
     # la "Just as last time, you can flick the lever in order for the train to switch to the left track. However, this time there's a dog sitting on the other track."
-    la "Just as last time, you can flick the lever in order for the train to switch to the left track. However, this time there's a dog sitting on the other track."
+    la "Igual que la otra vez, podes tirar de la palanca para que el tranvía cambie de rumbo a la izquierda. Sin embargo, esta vez del otro lado hay un perro acostado."
 
 # game/v5/v5.rpy:1271
 translate espanol continueam_39320b34:
 
     # la "Now it's up to you, will you actively decide to kill the dog to save a human life or will you idly stand by and let her die?"
-    la "Now it's up to you, will you actively decide to kill the dog to save a human life or will you idly stand by and let her die?"
+    la "Ahora depende de vos, ¿vas a matar a un perro para salvar una vida humana o vas a quedarte quieto y dejar que la persona muera?"
 
 # game/v5/v5.rpy:1276
 translate espanol continueam_6b879436:
 
     # la "You can decide to switch the lever, but remember, you're on a timer. If you don't switch the lever within a few seconds, the train will keep its current course."
-    la "You can decide to switch the lever, but remember, you're on a timer. If you don't switch the lever within a few seconds, the train will keep its current course."
+    la "Vos decidís si tiras de la palanca, pero acordate que estas a contrareloj. Si no tiras de la palanca en un tiempo determinado el tranvía va a seguir su curso."
 
 # game/v5/v5.rpy:1295
 translate espanol trolleyba_4e02250a:
 
     # u "Ahh fuck!"
-    u "Ahh fuck!"
+    u "¡Ahh mierda!"
 
 # game/v5/v5.rpy:1316
 translate espanol trolleybb_4e02250a:
 
     # u "Ahh fuck!"
-    u "Ahh fuck!"
+    u "¡Ahh mierda!"
 
 # game/v5/v5.rpy:1324
 translate espanol continuean_0f71c6ca:
 
     # u "Fucking hell, what is this personality test??"
-    u "Fucking hell, what is this personality test??"
+    u "A la mierda, ¿¿qué clase de prueba de personalidad es este??"
 
 # game/v5/v5.rpy:1329
 translate espanol continuean_233d41a2:
 
     # la "Sorry, I know it's a lot but there's only one more to go."
-    la "Sorry, I know it's a lot but there's only one more to go."
+    la "Perdón, se que es mucho pero solo queda un escenario."
 
 # game/v5/v5.rpy:1330
 translate espanol continuean_ba5d5eca:
 
     # la "Are you okay with doing the last one?"
-    la "Are you okay with doing the last one?"
+    la "¿Estás bien para hacer el último?"
 
 # game/v5/v5.rpy:1337
 translate espanol continuean_25d8298b:
 
     # u "Yeah, okay."
-    u "Yeah, okay."
+    u "Si, dale."
 
 # game/v5/v5.rpy:1342
 translate espanol continuean_392c0d34:
 
     # la "Alright, imagine yourself back on the train for one last time, moving as fast as before."
-    la "Alright, imagine yourself back on the train for one last time, moving as fast as before."
+    la "Bueno, imaginate de nuevo en el mismo tranvía de la otra vez, que se mueve igual de rápido que antes."
 
 # game/v5/v5.rpy:1348
 translate espanol continuean_944eb5f0:
 
     # u "Okay, I'm on the train."
-    u "Okay, I'm on the train."
+    u "Okey, estoy en el tranvía."
 
 # game/v5/v5.rpy:1353
 translate espanol continuean_432f6b54:
 
     # la "Look out the front again."
-    la "Look out the front again."
+    la "Mira hacia adelante de nuevo."
 
 # game/v5/v5.rpy:1358
 translate espanol continuean_3c8517fb:
 
     # u "Sure thing."
-    u "Sure thing."
+    u "Listo."
 
 # game/v5/v5.rpy:1361
 translate espanol continuean_a80040a0:
 
     # la "You said that you consider yourself a relationship person, let's put that to the test."
-    la "You said that you consider yourself a relationship person, let's put that to the test."
+    la "Dijiste que te consideras una persona de pareja, pongamoslo a prueba."
 
 # game/v5/v5.rpy:1364
 translate espanol continuean_b5778d35:
 
     # la "You said that you wouldn't consider yourself a relationship person, let's put that to the test."
-    la "You said that you wouldn't consider yourself a relationship person, let's put that to the test."
+    la "Dijiste que no te considerarias una persona de pareja, pongamoslo a prueba."
 
 # game/v5/v5.rpy:1366
 translate espanol continuean_57468466:
 
     # la "As the train's moving forward you come closer to another intersection."
-    la "As the train's moving forward you come closer to another intersection."
+    la "Mientras el tranvía sigue moviendose, te cruzas con otra insersección."
 
 # game/v5/v5.rpy:1371
 translate espanol continuean_63bd70e2:
 
     # la "The train's heading to the right side of the intersection, where this time there's five people again, scared for their lives."
-    la "The train's heading to the right side of the intersection, where this time there's five people again, scared for their lives."
+    la "El tranvía se dirije por el camino derecho, donde de nuevo hay cinco personas atadas."
 
 # game/v5/v5.rpy:1376
 translate espanol continuean_1f143709:
 
     # la "As always, you can flick the lever in order for the train to switch to the left track. However, this time on the other track it's your ex-girlfriend Emily."
-    la "As always, you can flick the lever in order for the train to switch to the left track. However, this time on the other track it's your ex-girlfriend Emily."
+    la "Como siempre, podes tirad de la palanca para sque el tranvía vaya a la izquierda. Sin embargo, esta vez del otro lado está tu ex-novia Emily."
 
 # game/v5/v5.rpy:1378
 translate espanol continuean_253af055:
 
     # u "Lauren, what the fuck?! How do you even know about Emily?"
-    u "Lauren, what the fuck?! How do you even know about Emily?"
+    u "¡¿Qué carajos Lauren?! ¿Como mierda sabés sobre Emily?"
 
 # game/v5/v5.rpy:1383
 translate espanol continuean_fc4109de:
 
     # la "There's no time for this right now. Will you actively decide to kill Emily to save five human lives or will you let the train run it's course, keeping her alive but killing five people in the process?"
-    la "There's no time for this right now. Will you actively decide to kill Emily to save five human lives or will you let the train run it's course, keeping her alive but killing five people in the process?"
+    la "Ahora no es el momento. ¿Vas a decidir matar a Emily para salvar a cinco personas o vas a dejar que el tranvía siga su curso, salvando a Emily pero matando a las otras cinco personas?"
 
 # game/v5/v5.rpy:1388
 translate espanol continuean_6b879436:
 
     # la "You can decide to switch the lever, but remember, you're on a timer. If you don't switch the lever within a few seconds, the train will keep its current course."
-    la "You can decide to switch the lever, but remember, you're on a timer. If you don't switch the lever within a few seconds, the train will keep its current course."
+    la "Vos decidís si tiras de la palanca, pero acordate que estas a contrareloj. Si no tiras de la palanca en un tiempo determinado el tranvía va a seguir su curso."
 
 # game/v5/v5.rpy:1411
 translate espanol trolleyca_d16202fb:
 
     # u "Oh my god!"
-    u "Oh my god!"
+    u "¡Dios mío!"
 
 # game/v5/v5.rpy:1429
 translate espanol trolleycb_d16202fb:
 
     # u "Oh my god!"
-    u "Oh my god!"
+    u "!Dios mío!"
 
 # game/v5/v5.rpy:1437
 translate espanol continueao_a6828a76:
 
     # u "Lauren, what the fuck?? Emily??"
-    u "Lauren, what the fuck?? Emily??"
+    u "Lauren, ¿¿qué carajos?? ¿¿Emily??"
 
 # game/v5/v5.rpy:1443
 translate espanol continueao_3c937b18:
 
     # la "Sorry, I had to ask around in order to find a weak spot. My psych professor said this was essential for the last problem to work."
-    la "Sorry, I had to ask around in order to find a weak spot. My psych professor said this was essential for the last problem to work."
+    la "Perdón, tuve que andar preguntando para encontrar un punto débil. Mi profesora de psicología dijo que era escencial para que el último escenario funcione."
 
 # game/v5/v5.rpy:1452
 translate espanol continueao_7831761a:

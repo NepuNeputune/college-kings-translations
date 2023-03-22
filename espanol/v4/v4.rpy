@@ -580,7 +580,7 @@ translate espanol dr_bd_3fd3d76d:
 translate espanol dr_bd_ce7dce11:
 
     # u "(What the hell was that dream? Ryan really made me second guess how things are going with Chloe.)"
-    u "(¿Qué carajos fue esesueño? Ryan me hizo pensarlo dos veces a como van las cosas con Chloe.)"
+    u "(¿Qué carajos fue ese sueño? Ryan me hizo pensarlo dos veces a como van las cosas con Chloe.)"
 
 # game/v4/v4.rpy:525
 translate espanol dr_bd_7fe361f6:
@@ -2920,7 +2920,7 @@ translate espanol eu_b_1e16adae:
 translate espanol eu_b_a5093b42:
 
     # cl "I told him to stop, okay?? I didn't know if he was gonna hurt you even more."
-    cl "Le dije que paré, ¿¿está bien?? No sabía si te iba a hacer incluso más daño."
+    cl "Le dije que pare, ¿¿está bien?? No sabía si te iba a hacer incluso más daño."
 
 # game/v4/v4.rpy:2912
 translate espanol eu_b_2f9ba4ed:
@@ -2974,7 +2974,7 @@ translate espanol eu_b_a8756a7b:
 translate espanol eu_b_c7c1b3e8:
 
     # "*Door slam*"
-    "*Golpazo de puerta*"
+    "*Portazo*"
 
 # game/v4/v4.rpy:2950
 translate espanol eu_b_fae10745:
