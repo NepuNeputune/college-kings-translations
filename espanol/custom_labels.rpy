@@ -10,5 +10,5 @@ translate espanol strings:
 
     # game/custom_labels.rpy:1
     old "I should probably talk to someone else."
-    new "I should probably talk to someone else."
+    new "Probablemente debería hablar con alguien más."
 

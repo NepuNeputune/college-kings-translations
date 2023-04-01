@@ -20,7 +20,7 @@ translate espanol strings:
 
     # game/characters.rpy:21
     old "Mrs. Anderson"
-    new "Mrs. Anderson"
+    new "Srta. Anderson"
 
     # game/characters.rpy:22
     old "Aubrey"
@@ -52,11 +52,11 @@ translate espanol strings:
 
     # game/characters.rpy:29
     old "Clerk"
-    new "Clerk"
+    new "Vendedor"
 
     # game/characters.rpy:30
     old "Counselor"
-    new "Counselor"
+    new "Consejero"
 
     # game/characters.rpy:31
     old "Courtney"
@@ -116,7 +116,7 @@ translate espanol strings:
 
     # game/characters.rpy:45
     old "Mr. Lee"
-    new "Mr. Lee"
+    new "Sr. Lee"
 
     # game/characters.rpy:46
     old "Lindsey"
@@ -140,7 +140,7 @@ translate espanol strings:
 
     # game/characters.rpy:51
     old "Ms. Rose"
-    new "Ms. Rose"
+    new "Stra. Rose"
 
     # game/characters.rpy:52
     old "Ryan"
@@ -156,7 +156,7 @@ translate espanol strings:
 
     # game/characters.rpy:55
     old "Security Guard"
-    new "Security Guard"
+    new "Guardia de seguridad"
 
     # game/characters.rpy:56
     old "Tom"
@@ -168,11 +168,11 @@ translate espanol strings:
 
     # game/characters.rpy:58
     old "Uber Driver"
-    new "Uber Driver"
+    new "Conductor de Uber"
 
     # game/characters.rpy:59
     old "Unknown"
-    new "Unknown"
+    new "Desconocido"
 
     # game/characters.rpy:62
     old "Finn"
@@ -196,7 +196,7 @@ translate espanol strings:
 
     # game/characters.rpy:67
     old "Host"
-    new "Host"
+    new "Anfitrion"
 
     # game/characters.rpy:68
     old "Matt"
@@ -220,7 +220,7 @@ translate espanol strings:
 
     # game/characters.rpy:73
     old "Waiter"
-    new "Waiter"
+    new "Mozo"
 
     # game/characters.rpy:76
     old "Caleb"
@@ -228,7 +228,7 @@ translate espanol strings:
 
     # game/characters.rpy:77
     old "Class"
-    new "Class"
+    new "Case"
 
     # game/characters.rpy:78
     old "Cooper"
@@ -260,7 +260,7 @@ translate espanol strings:
 
     # game/characters.rpy:85
     old "Teacher"
-    new "Teacher"
+    new "Profesor"
 
     # game/characters.rpy:86
     old "Wesley"
@@ -272,7 +272,7 @@ translate espanol strings:
 
     # game/characters.rpy:90
     old "Speaker Announcement"
-    new "Speaker Announcement"
+    new "Anuncio del altoparlante"
 
     # game/characters.rpy:91
     old "Dean"
@@ -280,7 +280,7 @@ translate espanol strings:
 
     # game/characters.rpy:92
     old "Employee"
-    new "Employee"
+    new "Empleado"
 
     # game/characters.rpy:93
     old "Joe"
@@ -288,7 +288,7 @@ translate espanol strings:
 
     # game/characters.rpy:96
     old "Female voice"
-    new "Female voice"
+    new "Voz femenina"
 
     # game/characters.rpy:99
     old "Ben"
@@ -316,19 +316,19 @@ translate espanol strings:
 
     # game/characters.rpy:106
     old "Mr. Rose"
-    new "Mr. Rose"
+    new "Srta. Rose"
 
     # game/characters.rpy:109
     old "Airport Host"
-    new "Airport Host"
+    new "Empleado del aereopuerto"
 
     # game/characters.rpy:110
     old "Art Director"
-    new "Art Director"
+    new "Director de Arte"
 
     # game/characters.rpy:111
     old "Bank Teller"
-    new "Bank Teller"
+    new "Empleado bancario"
 
     # game/characters.rpy:112
     old "Bartender"
@@ -344,7 +344,7 @@ translate espanol strings:
 
     # game/characters.rpy:115
     old "Sales Rep"
-    new "Sales Rep"
+    new "Representante de ventas"
 
     # game/characters.rpy:116
     old "Dennis"
@@ -352,7 +352,7 @@ translate espanol strings:
 
     # game/characters.rpy:117
     old "Driver"
-    new "Driver"
+    new "Conductor"
 
     # game/characters.rpy:118
     old "Duncan"
@@ -376,7 +376,7 @@ translate espanol strings:
 
     # game/characters.rpy:123
     old "Judge"
-    new "Judge"
+    new "Juez"
 
     # game/characters.rpy:124
     old "Manager"
@@ -392,31 +392,31 @@ translate espanol strings:
 
     # game/characters.rpy:129
     old "Barber"
-    new "Barber"
+    new "Barbero"
 
     # game/characters.rpy:130
     old "Bishop"
-    new "Bishop"
+    new "Obispo"
 
     # game/characters.rpy:131
     old "Crazy Lady"
-    new "Crazy Lady"
+    new "Mujer Loca"
 
     # game/characters.rpy:133
     old "French Waitress"
-    new "French Waitress"
+    new "Moza francesa"
 
     # game/characters.rpy:134
     old "Greeter"
-    new "Greeter"
+    new "Recibidor"
 
     # game/characters.rpy:135
     old "Lady Masseuse"
-    new "Lady Masseuse"
+    new "Masajista mujer"
 
     # game/characters.rpy:136
     old "Male Masseuse"
-    new "Male Masseuse"
+    new "Masajista hombre"
 
     # game/characters.rpy:137
     old "Naomi"
@@ -424,19 +424,19 @@ translate espanol strings:
 
     # game/characters.rpy:138
     old "Nurse"
-    new "Nurse"
+    new "Enfermera"
 
     # game/characters.rpy:139
     old "Photographer"
-    new "Photographer"
+    new "Fotógrafo"
 
     # game/characters.rpy:140
     old "Robber"
-    new "Robber"
+    new "Ladrón"
 
     # game/characters.rpy:141
     old "Tattoo Artist"
-    new "Tattoo Artist"
+    new "Tatuador"
 
     # game/characters.rpy:144
     old "Aryssa"
@@ -476,7 +476,7 @@ translate espanol strings:
 
     # game/characters.rpy:158
     old "Elijah's Mother"
-    new "Elijah's Mother"
+    new "Madre de Elijah"
 
     # game/characters.rpy:159
     old "Emerald"
@@ -488,7 +488,7 @@ translate espanol strings:
 
     # game/characters.rpy:161
     old "Lady"
-    new "Lady"
+    new "Mujer"
 
     # game/characters.rpy:162
     old "Madame"
@@ -496,7 +496,7 @@ translate espanol strings:
 
     # game/characters.rpy:163
     old "Night Gambler"
-    new "Night Gambler"
+    new "Apostador nocturno"
 
     # game/characters.rpy:164
     old "Rubee"
@@ -508,9 +508,9 @@ translate espanol strings:
 
     # game/characters.rpy:166
     old "Trainer"
-    new "Trainer"
+    new "Entrenador"
 
     # game/characters.rpy:167
     old "Wolf Trainer"
-    new "Wolf Trainer"
+    new "Entrenador de los Wolf"
 

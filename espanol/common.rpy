@@ -120,111 +120,111 @@ translate espanol strings:
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Monday"
-    new "{#weekday}Monday"
+    new "{#weekday}Lunes"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Tuesday"
-    new "{#weekday}Tuesday"
+    new "{#weekday}Martes"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Wednesday"
-    new "{#weekday}Wednesday"
+    new "{#weekday}Miércoles"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Thursday"
-    new "{#weekday}Thursday"
+    new "{#weekday}Jueves"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Friday"
-    new "{#weekday}Friday"
+    new "{#weekday}Viernes"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Saturday"
-    new "{#weekday}Saturday"
+    new "{#weekday}Sábado"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Sunday"
-    new "{#weekday}Sunday"
+    new "{#weekday}Domingo"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Mon"
-    new "{#weekday_short}Mon"
+    new "{#weekday_short}Lun"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Tue"
-    new "{#weekday_short}Tue"
+    new "{#weekday_short}Mar"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Wed"
-    new "{#weekday_short}Wed"
+    new "{#weekday_short}Mie"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Thu"
-    new "{#weekday_short}Thu"
+    new "{#weekday_short}Jue"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Fri"
-    new "{#weekday_short}Fri"
+    new "{#weekday_short}Vie"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Sat"
-    new "{#weekday_short}Sat"
+    new "{#weekday_short}Sab"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Sun"
-    new "{#weekday_short}Sun"
+    new "{#weekday_short}Dom"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}January"
-    new "{#month}January"
+    new "{#month}Enero"
 
     # renpy/common/00action_file.rpy:47
-    old "{#month}February"
+    old "{#month}Febrero"
     new "{#month}February"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}March"
-    new "{#month}March"
+    new "{#month}Marzo"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}April"
-    new "{#month}April"
+    new "{#month}Abril"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}May"
-    new "{#month}May"
+    new "{#month}Mayo"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}June"
-    new "{#month}June"
+    new "{#month}Junio"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}July"
-    new "{#month}July"
+    new "{#month}Julio"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}August"
-    new "{#month}August"
+    new "{#month}Agosto"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}September"
-    new "{#month}September"
+    new "{#month}Septiembre"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}October"
-    new "{#month}October"
+    new "{#month}Octubre"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}November"
-    new "{#month}November"
+    new "{#month}Noviembre"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}December"
-    new "{#month}December"
+    new "{#month}Diciembre"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Jan"
-    new "{#month_short}Jan"
+    new "{#month_short}Ene"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Feb"
@@ -236,7 +236,7 @@ translate espanol strings:
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Apr"
-    new "{#month_short}Apr"
+    new "{#month_short}Abr"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}May"
@@ -252,7 +252,7 @@ translate espanol strings:
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Aug"
-    new "{#month_short}Aug"
+    new "{#month_short}Ago"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Sep"
@@ -268,7 +268,7 @@ translate espanol strings:
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Dec"
-    new "{#month_short}Dec"
+    new "{#month_short}Dic"
 
     # renpy/common/00action_file.rpy:250
     old "%b %d, %H:%M"
@@ -276,63 +276,63 @@ translate espanol strings:
 
     # renpy/common/00action_file.rpy:364
     old "Save slot %s: [text]"
-    new "Save slot %s: [text]"
+    new "Guardar %s: [text]"
 
     # renpy/common/00action_file.rpy:445
     old "Load slot %s: [text]"
-    new "Load slot %s: [text]"
+    new "Cargar %s: [text]"
 
     # renpy/common/00action_file.rpy:498
     old "Delete slot [text]"
-    new "Delete slot [text]"
+    new "Borrar [text]"
 
     # renpy/common/00action_file.rpy:577
     old "File page auto"
-    new "File page auto"
+    new "Página auto"
 
     # renpy/common/00action_file.rpy:579
     old "File page quick"
-    new "File page quick"
+    new "Página rápido"
 
     # renpy/common/00action_file.rpy:581
     old "File page [text]"
-    new "File page [text]"
+    new "Página [text]"
 
     # renpy/common/00action_file.rpy:639
     old "Page {}"
-    new "Page {}"
+    new "Página {}"
 
     # renpy/common/00action_file.rpy:639
     old "Automatic saves"
-    new "Automatic saves"
+    new "Guardado automático"
 
     # renpy/common/00action_file.rpy:639
     old "Quick saves"
-    new "Quick saves"
+    new "Guardado rápido"
 
     # renpy/common/00action_file.rpy:780
     old "Next file page."
-    new "Next file page."
+    new "Página siguiente."
 
     # renpy/common/00action_file.rpy:852
     old "Previous file page."
-    new "Previous file page."
+    new "Página anterior."
 
     # renpy/common/00action_file.rpy:913
     old "Quick save complete."
-    new "Quick save complete."
+    new "Guardado rápido completado."
 
     # renpy/common/00action_file.rpy:931
     old "Quick save."
-    new "Quick save."
+    new "Guardado rápido."
 
     # renpy/common/00action_file.rpy:950
     old "Quick load."
-    new "Quick load."
+    new "Cargado rápido."
 
     # renpy/common/00action_other.rpy:381
     old "Language [text]"
-    new "Language [text]"
+    new "Idioma [text]"
 
     # renpy/common/00action_other.rpy:703
     old "Open [text] directory."
@@ -432,43 +432,43 @@ translate espanol strings:
 
     # renpy/common/00gui.rpy:445
     old "Are you sure?"
-    new "Are you sure?"
+    new "¿Estás seguro?"
 
     # renpy/common/00gui.rpy:446
     old "Are you sure you want to delete this save?"
-    new "Are you sure you want to delete this save?"
+    new "¿Está seguro que quiere borar esta partida?"
 
     # renpy/common/00gui.rpy:447
     old "Are you sure you want to overwrite your save?"
-    new "Are you sure you want to overwrite your save?"
+    new "¿Está seguro que quiere sobreescribir esta partida?"
 
     # renpy/common/00gui.rpy:448
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
-    new "Loading will lose unsaved progress.\nAre you sure you want to do this?"
+    new "Al cargar esta partida perderá el progreso no guardado.\n¿Está seguro que desea hacerlo?"
 
     # renpy/common/00gui.rpy:449
     old "Are you sure you want to quit?"
-    new "Are you sure you want to quit?"
+    new "¿Está seguro que desea salir?"
 
     # renpy/common/00gui.rpy:450
     old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
-    new "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
+    new "¿Está seguro que desea volver al menú principal? \nPerderá todo el progreso que no haya guardado."
 
     # renpy/common/00gui.rpy:451
     old "Are you sure you want to end the replay?"
-    new "Are you sure you want to end the replay?"
+    new "¿Está seguro que desea terminar el replay?"
 
     # renpy/common/00gui.rpy:452
     old "Are you sure you want to begin skipping?"
-    new "Are you sure you want to begin skipping?"
+    new "¿Está seguro que quiere empezar a saltear?"
 
     # renpy/common/00gui.rpy:453
     old "Are you sure you want to skip to the next choice?"
-    new "Are you sure you want to skip to the next choice?"
+    new "¿'Está seguro que desea saltear la siguiente opción?"
 
     # renpy/common/00gui.rpy:454
     old "Are you sure you want to skip unseen dialogue to the next choice?"
-    new "Are you sure you want to skip unseen dialogue to the next choice?"
+    new "¿Está seguro que desea saltear el diálogo que no haya visto hasta la próxima opción?"
 
     # renpy/common/00keymap.rpy:310
     old "Failed to save screenshot as %s."
@@ -1108,43 +1108,43 @@ translate espanol strings:
 
     # renpy/common/_errorhandling.rpym:555
     old "Open"
-    new "Open"
+    new "Abrir"
 
     # renpy/common/_errorhandling.rpym:557
     old "Opens the traceback.txt file in a text editor."
-    new "Opens the traceback.txt file in a text editor."
+    new "Abre el archivo traceback.txt en un editor de texto."
 
     # renpy/common/_errorhandling.rpym:559
     old "Copy BBCode"
-    new "Copy BBCode"
+    new "Copiar BBCode"
 
     # renpy/common/_errorhandling.rpym:561
     old "Copies the traceback.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
-    new "Copies the traceback.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
+    new "Copía el archivo traceback.txt al portapapeles como BBcode para foros como https://lemmasoft.renai.us/."
 
     # renpy/common/_errorhandling.rpym:563
     old "Copy Markdown"
-    new "Copy Markdown"
+    new "Copiar Markdown"
 
     # renpy/common/_errorhandling.rpym:565
     old "Copies the traceback.txt file to the clipboard as Markdown for Discord."
-    new "Copies the traceback.txt file to the clipboard as Markdown for Discord."
+    new "Copia el archivo traceback.txt al portapapeles como un Markdown para Discord."
 
     # renpy/common/_errorhandling.rpym:594
     old "An exception has occurred."
-    new "An exception has occurred."
+    new "Una excepción ha ocurrido."
 
     # renpy/common/_errorhandling.rpym:617
     old "Rollback"
-    new "Rollback"
+    new "Volver atras"
 
     # renpy/common/_errorhandling.rpym:619
     old "Attempts a roll back to a prior time, allowing you to save or choose a different choice."
-    new "Attempts a roll back to a prior time, allowing you to save or choose a different choice."
+    new "Intenta volver a un momento anterior, pudiendo guardar o elegir una opción diferente."
 
     # renpy/common/_errorhandling.rpym:622
     old "Ignore"
-    new "Ignore"
+    new "Ignorar"
 
     # renpy/common/_errorhandling.rpym:626
     old "Ignores the exception, allowing you to continue."
@@ -1156,23 +1156,23 @@ translate espanol strings:
 
     # renpy/common/_errorhandling.rpym:632
     old "Reload"
-    new "Reload"
+    new "Recargar"
 
     # renpy/common/_errorhandling.rpym:634
     old "Reloads the game from disk, saving and restoring game state if possible."
-    new "Reloads the game from disk, saving and restoring game state if possible."
+    new "Recarga el juego desde el disco, guardando y restaurando el estado del juego si es posible."
 
     # renpy/common/_errorhandling.rpym:637
     old "Console"
-    new "Console"
+    new "Consola"
 
     # renpy/common/_errorhandling.rpym:639
     old "Opens a console to allow debugging the problem."
-    new "Opens a console to allow debugging the problem."
+    new "Abre una consola para permitir el debugging del problema."
 
     # renpy/common/_errorhandling.rpym:652
     old "Quits the game."
-    new "Quits the game."
+    new "Salir del juego."
 
     # renpy/common/_errorhandling.rpym:673
     old "Parsing the script failed."

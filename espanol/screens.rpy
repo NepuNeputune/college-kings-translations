@@ -4,23 +4,23 @@ translate espanol strings:
 
     # game/screens.rpy:462
     old "History"
-    new "History"
+    new "Historial"
 
     # game/screens.rpy:516
     old "Return"
-    new "Return"
+    new "Volver"
 
     # game/screens.rpy:518
     old "Save"
-    new "Save"
+    new "Guardar"
 
     # game/screens.rpy:519
     old "Load"
-    new "Load"
+    new "Cargar"
 
     # game/screens.rpy:523
     old "Settings"
-    new "Settings"
+    new "Opciones"
 
     # game/screens.rpy:525
     old "Menu"
@@ -28,26 +28,26 @@ translate espanol strings:
 
     # game/screens.rpy:527
     old "Quit"
-    new "Quit"
+    new "Salir"
 
     # game/screens.rpy:640
     old "PAGE {}"
-    new "PAGE {}"
+    new "PÁGINA {}"
 
     # game/screens.rpy:640
     old "AUTOMATIC SAVES"
-    new "AUTOMATIC SAVES"
+    new "GUARDADO AUTOMÁTICO"
 
     # game/screens.rpy:640
     old "QUICK SAVES"
-    new "QUICK SAVES"
+    new "GUARDADO RÁPIDO"
 
     # game/screens.rpy:700
     old "{#file_time}%A, %B %d %Y, %H:%M"
     new "{#file_time}%A, %B %d %Y, %H:%M"
 
     # game/screens.rpy:700
-    old "empty slot"
+    old "lugar vacío"
     new "empty slot"
 
     # game/screens.rpy:721
@@ -56,23 +56,23 @@ translate espanol strings:
 
     # game/screens.rpy:724
     old "{#quick_page}Q"
-    new "{#quick_page}Q"
+    new "{#quick_page}R"
 
     # game/screens.rpy:1094
     old "The dialogue history is empty."
-    new "The dialogue history is empty."
+    new "El historial de diálogo esta vacío."
 
     # game/screens.rpy:1211
     old "Skipping"
-    new "Skipping"
+    new "Adelantando"
 
     # game/screens.rpy:1312
     old "Back"
-    new "Back"
+    new "Volver"
 
     # game/screens.rpy:1313
     old "Skip"
-    new "Skip"
+    new "Saltear"
 
     # game/screens.rpy:1314
     old "Auto"

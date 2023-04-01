@@ -4,11 +4,11 @@ translate espanol strings:
 
     # game/inventory.rpy:37
     old "Honey"
-    new "Honey"
+    new "Miel"
 
     # game/inventory.rpy:44
     old "Butt Plug"
-    new "Butt Plug"
+    new "Plug Anal"
 
     # game/inventory.rpy:51
     old "Spankers"
@@ -16,9 +16,9 @@ translate espanol strings:
 
     # game/inventory.rpy:58
     old "Cuffs"
-    new "Cuffs"
+    new "Esposas"
 
     # game/inventory.rpy:65
     old "Feather"
-    new "Feather"
+    new "Pluma"
 
