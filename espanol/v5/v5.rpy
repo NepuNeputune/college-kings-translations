@@ -928,7 +928,7 @@ translate espanol gokissb_594e13dd:
 translate espanol gokissb_a15b70f3:
 
     # u "*Chuckles* I feel like this personality test is just a pretext so you can vet me."
-    u "*Risas* Siento que esta prueba de personalidad es un pretexto para que investigues."
+    u "*Risas* Siento que este test de personalidad es un pretexto para que investigues."
 
 # game/v5/v5.rpy:963
 translate espanol gokissb_34525a0a:
@@ -1282,7 +1282,7 @@ translate espanol trolleybb_4e02250a:
 translate espanol continuean_0f71c6ca:
 
     # u "Fucking hell, what is this personality test??"
-    u "A la mierda, ¿¿qué clase de prueba de personalidad es este??"
+    u "A la mierda, ¿¿qué clase de test de personalidad es este??"
 
 # game/v5/v5.rpy:1329
 translate espanol continuean_233d41a2:
@@ -1402,205 +1402,205 @@ translate espanol continueao_3c937b18:
 translate espanol continueao_7831761a:
 
     # u "*Sigh* It's okay, at least we're done now."
-    u "*Sigh* It's okay, at least we're done now."
+    u "*Suspiro* Está bien, al menos ya terminamos."
 
 # game/v5/v5.rpy:1457
 translate espanol continueao_f9ecf14f:
 
     # la "Exactly, I'll let you know once I have analyzed the results."
-    la "Exactly, I'll let you know once I have analyzed the results."
+    la "Exactamente, una vez tenga los resultados te aviso."
 
 # game/v5/v5.rpy:1462
 translate espanol continueao_26825b3e:
 
     # la "In the meantime, I could use a coffee, wanna come with me?"
-    la "In the meantime, I could use a coffee, wanna come with me?"
+    la "Mientras tanto, me muero por un café, ¿querés venir conmigo?"
 
 # game/v5/v5.rpy:1467
 translate espanol continueao_7cc710c6:
 
     # u "Sorry, Lauren. As much as I'd like to, I gotta pick up Imre from the hospital."
-    u "Sorry, Lauren. As much as I'd like to, I gotta pick up Imre from the hospital."
+    u "Perdón Lauren. Por más que me encantaría ir, tengo que ir a buscar a Imre al hospital."
 
 # game/v5/v5.rpy:1472
 translate espanol continueao_579f3000:
 
     # la "Oh, alright."
-    la "Oh, alright."
+    la "Ah, está bien."
 
 # game/v5/v5.rpy:1477
 translate espanol continueao_eb1e8286:
 
     # u "I'll see you later, okay?"
-    u "I'll see you later, okay?"
+    u "Nos vemos más tarde, ¿dale?"
 
 # game/v5/v5.rpy:1482
 translate espanol continueao_88d040a5:
 
     # la "Yeah."
-    la "Yeah."
+    la "Dale."
 
 # game/v5/v5.rpy:1485
 translate espanol continueao_3a40ec94:
 
     # la "Are we still gonna kiss goodbye?"
-    la "Are we still gonna kiss goodbye?"
+    la "¿Nos vamos a dar un beso de despedida?"
 
 # game/v5/v5.rpy:1490
 translate espanol continueao_198eec9c:
 
     # u "Oh yeah, of course."
-    u "Oh yeah, of course."
+    u "Ah cierto, obviamente."
 
 # game/v5/v5.rpy:1508
 translate espanol continueao_daa843ad:
 
     # u "Alright, bye."
-    u "Alright, bye."
+    u "Bueno, nos vemos."
 
 # game/v5/v5.rpy:1513
 translate espanol continueao_853e4089:
 
     # la "Bye."
-    la "Bye."
+    la "Chau."
 
 # game/v5/v5.rpy:1523
 translate espanol continueao_b0b652ff:
 
     # u "Lauren, that was too fucking far. What are you, some mad scientist?"
-    u "Lauren, that was too fucking far. What are you, some mad scientist?"
+    u "Lauren, te fuiste a la mierda. ¿Qué sos, una científica loca?"
 
 # game/v5/v5.rpy:1528
 translate espanol continueao_bbe88f90:
 
     # la "[name], I'm sorry, please."
-    la "[name], I'm sorry, please."
+    la "Disculpame [name], perdón."
 
 # game/v5/v5.rpy:1530
 translate espanol continueao_34bb646e:
 
     # la "How about we get a coffee and talk about it?"
-    la "How about we get a coffee and talk about it?"
+    la "¿Qué tal si amos a tomar un café y hablamos un poco?"
 
 # game/v5/v5.rpy:1535
 translate espanol continueao_c3a92748:
 
     # u "Uhm, I gotta pick up Imre from the hospital now."
-    u "Uhm, I gotta pick up Imre from the hospital now."
+    u "Ehm, ahora tengo que ir a buscar a Imre al hospital."
 
 # game/v5/v5.rpy:1540
 translate espanol continueao_caaf72fc:
 
     # la "Oh, okay, yeah."
-    la "Oh, okay, yeah."
+    la "Ah, okey, bueno."
 
 # game/v5/v5.rpy:1545
 translate espanol continueao_eb1e8286_1:
 
     # u "I'll see you later, okay?"
-    u "I'll see you later, okay?"
+    u "Nos vemos más tarde, ¿dale?"
 
 # game/v5/v5.rpy:1550
 translate espanol continueao_88d040a5_1:
 
     # la "Yeah."
-    la "Yeah."
+    la "Dale."
 
 # game/v5/v5.rpy:1566
 translate espanol fb_b_f8d58710:
 
     # u "I'd rather not, can we just move on?"
-    u "I'd rather not, can we just move on?"
+    u "Preferiría que no, ¿podemos seguir con otra cosa?"
 
 # game/v5/v5.rpy:1571
 translate espanol fb_b_b1544f13:
 
     # la "Yeah of course."
-    la "Yeah of course."
+    la "Sí, por su puesto."
 
 # game/v5/v5.rpy:1577
 translate espanol skiptrolleya_182b5ce1:
 
     # la "That'd be all. I'll let you know once I have analyzed the results."
-    la "That'd be all. I'll let you know once I have analyzed the results."
+    la "Eso sería todo. Una vez tenga los resultados te aviso."
 
 # game/v5/v5.rpy:1582
 translate espanol skiptrolleya_26825b3e:
 
     # la "In the meantime, I could use a coffee, wanna come with me?"
-    la "In the meantime, I could use a coffee, wanna come with me?"
+    la "Mientras tanto, me muero por un café, ¿querés venir conmigo?"
 
 # game/v5/v5.rpy:1587
 translate espanol skiptrolleya_7cc710c6:
 
     # u "Sorry, Lauren. As much as I'd like to, I gotta pick up Imre from the hospital."
-    u "Sorry, Lauren. As much as I'd like to, I gotta pick up Imre from the hospital."
+    u "Perdón Lauren. Por más que me encantaría ir, tengo que ir a buscar a Imre al hospital."
 
 # game/v5/v5.rpy:1592
 translate espanol skiptrolleya_579f3000:
 
     # la "Oh, alright."
-    la "Oh, alright."
+    la "Ah, está bien."
 
 # game/v5/v5.rpy:1597
 translate espanol skiptrolleya_eb1e8286:
 
     # u "I'll see you later, okay?"
-    u "I'll see you later, okay?"
+    u "Nos vemos más tarde, ¿dale?"
 
 # game/v5/v5.rpy:1602
 translate espanol skiptrolleya_88d040a5:
 
     # la "Yeah."
-    la "Yeah."
+    la "Dale."
 
 # game/v5/v5.rpy:1605
 translate espanol skiptrolleya_3a40ec94:
 
     # la "Are we still gonna kiss goodbye?"
-    la "Are we still gonna kiss goodbye?"
+    la "¿Nos vamos a dar un besi de despedida?"
 
 # game/v5/v5.rpy:1610
 translate espanol skiptrolleya_198eec9c:
 
     # u "Oh yeah, of course."
-    u "Oh yeah, of course."
+    u "Ah cierto, obviamente."
 
 # game/v5/v5.rpy:1628
 translate espanol skiptrolleya_daa843ad:
 
     # u "Alright, bye."
-    u "Alright, bye."
+    u "Bueno, nos vemos."
 
 # game/v5/v5.rpy:1633
 translate espanol skiptrolleya_853e4089:
 
     # la "Bye."
-    la "Bye."
+    la "Chau."
 
 # game/v5/v5.rpy:1640
 translate espanol continueaf_64c5a1d5:
 
     # u "(Damn, it wasn't from Lauren... I wonder if she's still mad at me.)"
-    u "(Damn, it wasn't from Lauren... I wonder if she's still mad at me.)"
+    u "(Mierda, era de Lauren... Me pregunto si sigue enojada conmigo.)"
 
 # game/v5/v5.rpy:1646
 translate espanol continueaf_ef97aa94:
 
     # u "(I should go apologize.)"
-    u "(I should go apologize.)"
+    u "(Debería ir a disculparme.)"
 
 # game/v5/v5.rpy:1649
 translate espanol continueaf_6bb77164:
 
     # u "(Hopefully Autumn has already put in a good word for me.)"
-    u "(Hopefully Autumn has already put in a good word for me.)"
+    u "(Espero que Autumn le haya hablado bien de mi.)"
 
 # game/v5/v5.rpy:1654
 translate espanol continueaf_dfe131fe:
 
     # u "(Alright, this is Lauren's dorm.)"
-    u "(Alright, this is Lauren's dorm.)"
+    u "(Bueno, esta es la habitación de Lauren.)"
 
 # game/v5/v5.rpy:1660
 translate espanol continueaf_4f1997c1:
@@ -1612,205 +1612,205 @@ translate espanol continueaf_4f1997c1:
 translate espanol continueaf_6283d808:
 
     # unknown "Who is it?"
-    unknown "Who is it?"
+    unknown "¿Quién es?"
 
 # game/v5/v5.rpy:1667
 translate espanol continueaf_0f6cf220:
 
     # u "It's [name], is Lauren there?"
-    u "It's [name], is Lauren there?"
+    u "Soy [name], ¿está Lauren?"
 
 # game/v5/v5.rpy:1670
 translate espanol continueaf_1d52e490:
 
     # unknown "Oh, you're the fucker that tried to molest her, right?"
-    unknown "Oh, you're the fucker that tried to molest her, right?"
+    unknown "Ah, vos sos el tarado que quiso aprovecharse de ella, ¿no es así?"
 
 # game/v5/v5.rpy:1676
 translate espanol continueaf_baeded33:
 
     # u "What? No, I'm just a friend looking for her, where is she?"
-    u "What? No, I'm just a friend looking for her, where is she?"
+    u "¿Qué? No, solo soy un amigo que la está buscando, ¿adónde está?"
 
 # game/v5/v5.rpy:1681
 translate espanol continueaf_a86abcb6:
 
     # unknown "Uhm, alright, she's at some classroom for her personality test thing."
-    unknown "Uhm, alright, she's at some classroom for her personality test thing."
+    unknown "Ehm, está bien, está en algún salón por algo de un test de personalidad."
 
 # game/v5/v5.rpy:1683
 translate espanol continueaf_4d373ad7:
 
     # u "Thanks"
-    u "Thanks"
+    u "Gracias."
 
 # game/v5/v5.rpy:1686
 translate espanol continueaf_2c88a005:
 
     # unknown "Yeah, right. Fuck off."
-    unknown "Yeah, right. Fuck off."
+    unknown "Se se. Ahora andate de acá."
 
 # game/v5/v5.rpy:1690
 translate espanol continueaf_b7eacca2:
 
     # u "(Shit, I don't have time to search her all around campus... I guess I'll have to apologize to her another time.)"
-    u "(Shit, I don't have time to search her all around campus... I guess I'll have to apologize to her another time.)"
+    u "(Mierda, no tengo tiempo para buscarla por todo el campus... Supongo que me voy a tener que disculpar con ella en otro momento.)"
 
 # game/v5/v5.rpy:1692
 translate espanol continueaf_f1d94258:
 
     # u "(I should probably pick up Riley so that we can go and get Imre)"
-    u "(I should probably pick up Riley so that we can go and get Imre)"
+    u "(Debería encontrarme con Riley así podemos ir a buscar a Imre)"
 
 # game/v5/v5.rpy:1699
 translate espanol continueaf_d49c0157:
 
     # u "I didn't mean to... it was a misunderstanding!"
-    u "I didn't mean to... it was a misunderstanding!"
+    u "No fue mi intención... ¡Fué un malentendido!"
 
 # game/v5/v5.rpy:1701
 translate espanol continueaf_2c88a005_1:
 
     # unknown "Yeah, right. Fuck off."
-    unknown "Yeah, right. Fuck off."
+    unknown "Se se. Rajá de acá."
 
 # game/v5/v5.rpy:1704
 translate espanol continueaf_b7eacca2_1:
 
     # u "(Shit, I don't have time to search her all around campus... I guess I'll have to apologize to her another time.)"
-    u "(Shit, I don't have time to search her all around campus... I guess I'll have to apologize to her another time.)"
+    u "(Mierda, no tengo tiempo para buscarla por todo el campus... Supongo que me voy a tener que disculpar con ella en otro momento.)"
 
 # game/v5/v5.rpy:1706
 translate espanol continueaf_f1d94258_1:
 
     # u "(I should probably pick up Riley so that we can go and get Imre)"
-    u "(I should probably pick up Riley so that we can go and get Imre)"
+    u "(Debería encontrarme con Riley así podemos ir a buscar a Imre)"
 
 # game/v5/v5.rpy:1711
 translate espanol continueaf_520b64da:
 
     # unknown "Oh, you're the guy she cried about, right?"
-    unknown "Oh, you're the guy she cried about, right?"
+    unknown "Ah, vos sos el tipo por el que estubo llorando, ¿verdad?"
 
 # game/v5/v5.rpy:1713
 translate espanol continueaf_4232cff6:
 
     # unknown "She's not here, I think she's in some classroom for her personality test thing."
-    unknown "She's not here, I think she's in some classroom for her personality test thing."
+    unknown "No está acá, creo que está en algún salón por algo sobre un test de personalidad."
 
 # game/v5/v5.rpy:1718
 translate espanol continueaf_f8a6f944:
 
     # u "(Maybe I should give her a bit more time.)"
-    u "(Maybe I should give her a bit more time.)"
+    u "(Tal vez debería darle un poco más de tiempo.)"
 
 # game/v5/v5.rpy:1721
 translate espanol continueaf_746deadc:
 
     # u "(Afterall, Autumn said she'd talk to her.)"
-    u "(Afterall, Autumn said she'd talk to her.)"
+    u "(Al fin y al cabo, Autumn dijo que iba a hablar con ella.)"
 
 # game/v5/v5.rpy:1723
 translate espanol continueaf_a5618dc4:
 
     # u "(It's probably time to go pick up Imre with Riley anyways.)"
-    u "(It's probably time to go pick up Imre with Riley anyways.)"
+    u "(De todas maneras ya va siendo hora de ir a buscar a Imre con Riley.)"
 
 # game/v5/v5.rpy:1733
 translate espanol apo_c216004a:
 
     # "This door's locked."
-    "This door's locked."
+    "Esta puerta está cerrada."
 
 # game/v5/v5.rpy:1740
 translate espanol apo_c243fefa:
 
     # "Locked..."
-    "Locked..."
+    "Cerrada..."
 
 # game/v5/v5.rpy:1745
 translate espanol apo_cac680ea:
 
     # u "(Huh, this one's open...)"
-    u "(Huh, this one's open...)"
+    u "(Huh, esta está abierta...)"
 
 # game/v5/v5.rpy:1750
 translate espanol apo_85daf1c0:
 
     # u "Lauren?"
-    u "Lauren?"
+    u "¿Lauren?"
 
 # game/v5/v5.rpy:1756
 translate espanol apo_6439e089:
 
     # la "[name], what are you doing here?"
-    la "[name], what are you doing here?"
+    la "¿Qué estas haciendo acá [name]?"
 
 # game/v5/v5.rpy:1761
 translate espanol apo_449c6579:
 
     # u "Listen, I wanted to apologize, I went too far and I'm sorry."
-    u "Listen, I wanted to apologize, I went too far and I'm sorry."
+    u "Escichá, me quería diculpar, me sobrepase y te quería pedir disculpas."
 
 # game/v5/v5.rpy:1763
 translate espanol apo_a5a44cd7:
 
     # u "I- I just got carried away."
-    u "I- I just got carried away."
+    u "Solo- Solo me dejé llevar."
 
 # game/v5/v5.rpy:1771
 translate espanol apo_0fb46afe:
 
     # la "When you continued pushing your hand up my thigh after I told you I didn't want it, you... you made me feel disgusting."
-    la "When you continued pushing your hand up my thigh after I told you I didn't want it, you... you made me feel disgusting."
+    la "Cuando seguiste subiendo tu mano por mi pierna a pesar de que te dije que no quería, fue... fue desagradable."
 
 # game/v5/v5.rpy:1773
 translate espanol apo_fbde4541:
 
     # la "But I know that you're really sorry and I don't wanna be mad at you."
-    la "But I know that you're really sorry and I don't wanna be mad at you."
+    la "Pero quiero que sepas que realmente lo siento y que no quiero que estemos enojados."
 
 # game/v5/v5.rpy:1775
 translate espanol apo_24b53218:
 
     # la "That's if you're okay with just being friends again for now?"
-    la "That's if you're okay with just being friends again for now?"
+    la "Siempre y cuando estes de acuerdo y no te moleste que solamente seamos amigos."
 
 # game/v5/v5.rpy:1780
 translate espanol apo_2be5d203:
 
     # u "Yeah, of course."
-    u "Yeah, of course."
+    u "Si, obviamente."
 
 # game/v5/v5.rpy:1785
 translate espanol apo_712a38ff:
 
     # la "Good."
-    la "Good."
+    la "Genial."
 
 # game/v5/v5.rpy:1790
 translate espanol apo_a9d4953b:
 
     # u "What are you doing here anyways?"
-    u "What are you doing here anyways?"
+    u "A todo esto, ¿qué estas haciendo acá?"
 
 # game/v5/v5.rpy:1795
 translate espanol apo_bd8378df:
 
     # la "For my psychology class I need someone to do a personality test with me which I can then analyze, but my friend just cancelled on me."
-    la "For my psychology class I need someone to do a personality test with me which I can then analyze, but my friend just cancelled on me."
+    la "Para mi clase de psicología necesito a alguien para hacerle un test de personalidad conmigo para después analizarlo, pero mi amiga me acaba de cencelar."
 
 # game/v5/v5.rpy:1800
 translate espanol apo_a4d576e1:
 
     # u "I can do it."
-    u "I can do it."
+    u "Yo podría hacerlo."
 
 # game/v5/v5.rpy:1805
 translate espanol apo_0a0dccb2:
 
     # la "Really? That'd be amazing."
-    la "Really? That'd be amazing."
+    la "¿En serío? Eso sería genial."
 
 # game/v5/v5.rpy:1810
 translate espanol apo_9064cdac:
